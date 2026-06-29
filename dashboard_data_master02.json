@@ -868,6 +868,10 @@
     {
       "date": "06-29 18:47",
       "equity": 51550.7
+    },
+    {
+      "date": "06-29 19:35",
+      "equity": 51550.7
     }
   ],
   "hourly_distribution": [
@@ -1151,7 +1155,7 @@
     {
       "title": "ECB President Lagarde Speaks",
       "country": "EUR",
-      "date": "2026-06-29T13:30:00-04:00",
+      "date": "2026-06-29T15:00:00-04:00",
       "impact": "Medium",
       "forecast": "",
       "previous": ""
