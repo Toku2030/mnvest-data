@@ -1,0 +1,23 @@
+{
+  "updated_at": "2026-06-29T10:19:01.500691",
+  "investors": [
+    {
+      "client_name": "1 milion Demo",
+      "status": "offline",
+      "equity": 888719.45,
+      "lot_multiplier": 17.77,
+      "floating_pl": 0.0,
+      "monthly_profit": 0.0,
+      "start_balance": 1000000.0
+    },
+    {
+      "client_name": "MN Test Client 1",
+      "status": "equity_protection",
+      "equity": 52253.26,
+      "lot_multiplier": 1.33,
+      "floating_pl": 0.0,
+      "monthly_profit": 0.0,
+      "start_balance": 100000.0
+    }
+  ]
+}
