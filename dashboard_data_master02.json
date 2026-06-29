@@ -6,10 +6,10 @@
   "metrics": {
     "growth_pct": "+1.70%",
     "net_profit": "+1703.70",
-    "max_drawdown": "-8576.10 (-14.83%)",
+    "max_drawdown": "-8808.30 (-15.25%)",
     "current_equity": "51703.70",
     "current_balance": "51703.70",
-    "highest_balance": "57821.10",
+    "highest_balance": "57767.90",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "1.08",
@@ -635,11 +635,11 @@
     },
     {
       "date": "06-26 05:16",
-      "equity": 55992.1
+      "equity": 54706.5
     },
     {
       "date": "06-26 05:16",
-      "equity": 56331.4
+      "equity": 54082.6
     },
     {
       "date": "06-26 05:16",
@@ -743,23 +743,23 @@
     },
     {
       "date": "06-26 18:04",
-      "equity": 57562.6
+      "equity": 56384.4
     },
     {
       "date": "06-26 18:04",
-      "equity": 57436.6
+      "equity": 56258.4
     },
     {
       "date": "06-26 18:04",
-      "equity": 55791.9
+      "equity": 54613.7
     },
     {
       "date": "06-26 18:04",
-      "equity": 54974.9
+      "equity": 53796.7
     },
     {
       "date": "06-26 18:04",
-      "equity": 54244.8
+      "equity": 53066.6
     },
     {
       "date": "06-26 18:04",
@@ -883,6 +883,10 @@
     },
     {
       "date": "06-29 23:10",
+      "equity": 51703.7
+    },
+    {
+      "date": "06-29 23:29",
       "equity": 51703.7
     }
   ],
