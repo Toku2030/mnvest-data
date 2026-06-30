@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T23:59:13.972159",
+  "updated_at": "2026-07-01T00:02:17.420127",
   "investors": [
     {
       "client_name": "1 milion Demo",
@@ -8,7 +8,7 @@
       "lot_multiplier": 17.77,
       "floating_pl": 0.0,
       "monthly_profit": 0.0,
-      "start_balance": 1000000.0
+      "start_balance": 888719.45
     },
     {
       "client_name": "MN Test Client 1",
@@ -17,7 +17,7 @@
       "lot_multiplier": 1.33,
       "floating_pl": 0.0,
       "monthly_profit": 0.0,
-      "start_balance": 100000.0
+      "start_balance": 52253.26
     }
   ]
 }
