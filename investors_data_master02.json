@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-07-01T12:00:41.276714",
+  "investors": [
+    {
+      "client_name": "MN Test Client 1",
+      "status": "offline",
+      "equity": 65416.16,
+      "lot_multiplier": 25.7,
+      "floating_pl": -786.59,
+      "monthly_profit": 13162.899999999998,
+      "start_balance": 52253.26
+    }
+  ]
+}
