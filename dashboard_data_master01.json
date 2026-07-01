@@ -4,28 +4,34 @@
     "login": 184051343
   },
   "metrics": {
-    "growth_pct": "0.00%",
-    "net_profit": "0.00",
-    "max_drawdown": "0.00 (0.00%)",
-    "current_equity": "50000.00",
-    "current_balance": "50000.00",
-    "highest_balance": "50000.00",
+    "growth_pct": "+0.25%",
+    "net_profit": "+246.40",
+    "max_drawdown": "-37.60 (-0.07%)",
+    "current_equity": "50246.40",
+    "current_balance": "50246.40",
+    "highest_balance": "50284.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.00",
-    "expected_payoff": "0.00",
+    "profit_factor": "7.55",
+    "expected_payoff": "82.13",
     "sharpe_ratio": "0.00",
-    "win_rate": "0.0%",
-    "avg_win": "0.00",
-    "avg_loss": "0.00",
-    "avg_duration": "0h 0m",
-    "total_trades": 0,
+    "win_rate": "66.7%",
+    "avg_win": "142.00",
+    "avg_loss": "37.60",
+    "avg_duration": "1h 30m",
+    "total_trades": 3,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
     "worst_streak_trades": 0
   },
-  "symbols": [],
+  "symbols": [
+    {
+      "name": "XAUUSDc",
+      "count": 3,
+      "percentage": 100.0
+    }
+  ],
   "equity_curve": [
     {
       "date": "07-01 03:50",
@@ -42,17 +48,150 @@
     {
       "date": "07-01 07:07",
       "equity": 50000.0
+    },
+    {
+      "date": "07-01 07:20",
+      "equity": 50265.7
+    },
+    {
+      "date": "07-01 07:20",
+      "equity": 50284.0
+    },
+    {
+      "date": "07-01 07:20",
+      "equity": 50246.4
     }
   ],
-  "hourly_distribution": [],
+  "hourly_distribution": [
+    {
+      "hour": "00",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "01",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "02",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "03",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "04",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "05",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "06",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "07",
+      "win": 2,
+      "loss": 1
+    },
+    {
+      "hour": "08",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "09",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "10",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "11",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "12",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "13",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "14",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "15",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "16",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "17",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "18",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "19",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "20",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "21",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "22",
+      "win": 0,
+      "loss": 0
+    },
+    {
+      "hour": "23",
+      "win": 0,
+      "loss": 0
+    }
+  ],
   "daily_records": {
     "2026-07-01": {
-      "profit": 0.0,
-      "pct": 0.0,
-      "trades": 0,
-      "wins": 0,
-      "gross_win": 0.0,
-      "gross_loss": 0.0
+      "profit": 246.4,
+      "pct": 0.25,
+      "trades": 3,
+      "wins": 2,
+      "gross_win": 284.0,
+      "gross_loss": 37.6
     }
   },
   "withdrawals": [],
