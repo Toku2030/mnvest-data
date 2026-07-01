@@ -1110,7 +1110,7 @@
       "equity": 44535.1
     },
     {
-      "date": "07-01 03:35",
+      "date": "07-01 03:40",
       "equity": 44535.1
     }
   ],
@@ -1895,6 +1895,14 @@
       "impact": "Low",
       "forecast": "-2.9M",
       "previous": "-6.1M"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-07-01T15:15:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Building Consents m/m",
