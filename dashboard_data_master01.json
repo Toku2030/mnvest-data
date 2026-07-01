@@ -6,12 +6,12 @@
   "metrics": {
     "growth_pct": "0.00%",
     "net_profit": "0.00",
-    "max_drawdown": "-50000.00 (-50.00%)",
-    "current_equity": "50000.00",
-    "current_balance": "50000.00",
+    "max_drawdown": "-100000.00 (-100.00%)",
+    "current_equity": "0.00",
+    "current_balance": "0.00",
     "highest_balance": "100000.00",
     "total_deposit": "100000.00",
-    "total_withdrawal": "50000.00",
+    "total_withdrawal": "100000.00",
     "profit_factor": "0.00",
     "expected_payoff": "0.00",
     "sharpe_ratio": "0.00",
@@ -35,6 +35,11 @@
       "date": "06-21 18:39",
       "equity": 50000.0,
       "withdrawal": 50000.0
+    },
+    {
+      "date": "07-01 03:50",
+      "equity": 0.0,
+      "withdrawal": 50000.0
     }
   ],
   "hourly_distribution": [],
@@ -55,6 +60,15 @@
       "gross_win": 0.0,
       "gross_loss": 0.0,
       "withdrawal": 50000.0
+    },
+    "2026-07-01": {
+      "profit": 0.0,
+      "pct": 0.0,
+      "trades": 0,
+      "wins": 0,
+      "gross_win": 0.0,
+      "gross_loss": 0.0,
+      "withdrawal": 50000.0
     }
   },
   "withdrawals": [
@@ -64,6 +78,13 @@
       "amount": 50000.0,
       "equity_before": 100000.0,
       "equity_after": 50000.0
+    },
+    {
+      "date": "07-01 03:50",
+      "date_full": "2026-07-01",
+      "amount": 50000.0,
+      "equity_before": 50000.0,
+      "equity_after": 0.0
     }
   ],
   "market_events": [
@@ -650,6 +671,14 @@
       "impact": "Low",
       "forecast": "-2.9M",
       "previous": "-6.1M"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-07-01T15:15:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Building Consents m/m",
