@@ -7,10 +7,10 @@
     "growth_pct": "+0.91%",
     "net_profit": "+914.00",
     "max_drawdown": "-153.60 (-0.30%)",
-    "current_equity": "92486.00",
-    "current_balance": "92486.00",
-    "highest_balance": "92486.00",
-    "total_deposit": "91572.00",
+    "current_equity": "114449.00",
+    "current_balance": "114449.00",
+    "highest_balance": "114449.00",
+    "total_deposit": "113535.00",
     "total_withdrawal": "0.00",
     "profit_factor": "5.78",
     "expected_payoff": "101.56",
@@ -176,6 +176,10 @@
     {
       "date": "07-01 13:44",
       "equity": 92486.0
+    },
+    {
+      "date": "07-01 14:13",
+      "equity": 114449.0
     }
   ],
   "hourly_distribution": [
