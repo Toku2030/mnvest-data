@@ -88,6 +88,14 @@
     {
       "date": "07-01 23:40",
       "equity": 46504.3
+    },
+    {
+      "date": "07-02 00:06",
+      "equity": 46504.3
+    },
+    {
+      "date": "07-02 00:12",
+      "equity": 46504.3
     }
   ],
   "hourly_distribution": [
@@ -220,6 +228,14 @@
       "wins": 2,
       "gross_win": 86.7,
       "gross_loss": 3582.4
+    },
+    "2026-07-02": {
+      "profit": 0.0,
+      "pct": 0.0,
+      "trades": 0,
+      "wins": 0,
+      "gross_win": 0.0,
+      "gross_loss": 0.0
     }
   },
   "withdrawals": [],
