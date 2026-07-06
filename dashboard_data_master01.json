@@ -6,7 +6,7 @@
   "metrics": {
     "growth_pct": "-4.97%",
     "net_profit": "-4973.40",
-    "max_drawdown": "-5319.20 (-10.63%)",
+    "max_drawdown": "-5345.20 (-10.68%)",
     "current_equity": "45026.60",
     "current_balance": "45026.60",
     "highest_balance": "50043.30",
@@ -583,7 +583,7 @@
     },
     {
       "date": "07-06 00:59",
-      "equity": 44826.8
+      "equity": 44698.1
     },
     {
       "date": "07-06 00:59",
@@ -611,6 +611,10 @@
     },
     {
       "date": "07-06 06:53",
+      "equity": 45026.6
+    },
+    {
+      "date": "07-06 07:00",
       "equity": 45026.6
     }
   ],
