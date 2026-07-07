@@ -844,6 +844,10 @@
     {
       "date": "07-07 07:00",
       "equity": 49185.2
+    },
+    {
+      "date": "07-07 07:04",
+      "equity": 49185.2
     }
   ],
   "hourly_distribution": [
