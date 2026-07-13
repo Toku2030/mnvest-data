@@ -4,22 +4,22 @@
     "login": 257459025
   },
   "metrics": {
-    "growth_pct": "-0.51%",
-    "net_profit": "-513.30",
-    "max_drawdown": "-5345.20 (-10.68%)",
-    "current_equity": "49486.70",
-    "current_balance": "49486.70",
+    "growth_pct": "-4.19%",
+    "net_profit": "-4194.60",
+    "max_drawdown": "-6196.60 (-11.92%)",
+    "current_equity": "45805.40",
+    "current_balance": "45805.40",
     "highest_balance": "52002.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.97",
-    "expected_payoff": "-2.82",
-    "sharpe_ratio": "-0.33",
-    "win_rate": "72.5%",
+    "profit_factor": "0.82",
+    "expected_payoff": "-22.55",
+    "sharpe_ratio": "-2.13",
+    "win_rate": "71.0%",
     "avg_win": "141.83",
-    "avg_loss": "384.69",
+    "avg_loss": "424.37",
     "avg_duration": "1h 30m",
-    "total_trades": 182,
+    "total_trades": 186,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 182,
+      "count": 186,
       "percentage": 100.0
     }
   ],
@@ -447,7 +447,7 @@
     },
     {
       "date": "07-02 23:42",
-      "equity": 47797.2
+      "equity": 47447.2
     },
     {
       "date": "07-02 23:42",
@@ -531,7 +531,7 @@
     },
     {
       "date": "07-03 16:46",
-      "equity": 48443.7
+      "equity": 48513.3
     },
     {
       "date": "07-03 16:46",
@@ -767,7 +767,7 @@
     },
     {
       "date": "07-07 01:00",
-      "equity": 47115.7
+      "equity": 47157.3
     },
     {
       "date": "07-07 01:00",
@@ -775,7 +775,7 @@
     },
     {
       "date": "07-07 01:00",
-      "equity": 47272.7
+      "equity": 47716.5
     },
     {
       "date": "07-07 01:00",
@@ -823,7 +823,7 @@
     },
     {
       "date": "07-07 04:10",
-      "equity": 48261.7
+      "equity": 48882.0
     },
     {
       "date": "07-07 04:10",
@@ -943,15 +943,15 @@
     },
     {
       "date": "07-07 19:07",
-      "equity": 48590.1
+      "equity": 50073.0
     },
     {
       "date": "07-07 19:07",
-      "equity": 47584.0
+      "equity": 48280.7
     },
     {
       "date": "07-07 19:07",
-      "equity": 47027.6
+      "equity": 47274.6
     },
     {
       "date": "07-07 19:07",
@@ -1047,7 +1047,7 @@
     },
     {
       "date": "07-08 11:43",
-      "equity": 47698.1
+      "equity": 47766.6
     },
     {
       "date": "07-08 11:43",
@@ -1143,7 +1143,7 @@
     },
     {
       "date": "07-09 02:27",
-      "equity": 48759.7
+      "equity": 49255.5
     },
     {
       "date": "07-09 02:27",
@@ -1151,7 +1151,7 @@
     },
     {
       "date": "07-09 02:27",
-      "equity": 49324.8
+      "equity": 49305.1
     },
     {
       "date": "07-09 02:27",
@@ -1239,7 +1239,7 @@
     },
     {
       "date": "07-10 00:45",
-      "equity": 50326.2
+      "equity": 50665.1
     },
     {
       "date": "07-10 00:45",
@@ -1423,11 +1423,11 @@
     },
     {
       "date": "07-13 07:09",
-      "equity": 48427.4
+      "equity": 48805.8
     },
     {
       "date": "07-13 07:09",
-      "equity": 48784.7
+      "equity": 48878.4
     },
     {
       "date": "07-13 07:09",
@@ -1512,6 +1512,22 @@
     {
       "date": "07-13 13:50",
       "equity": 49486.7
+    },
+    {
+      "date": "07-13 14:07",
+      "equity": 47817.7
+    },
+    {
+      "date": "07-13 14:07",
+      "equity": 46770.9
+    },
+    {
+      "date": "07-13 14:07",
+      "equity": 46158.7
+    },
+    {
+      "date": "07-13 14:07",
+      "equity": 45805.4
     }
   ],
   "hourly_distribution": [
@@ -1588,7 +1604,7 @@
     {
       "hour": "14",
       "win": 8,
-      "loss": 2
+      "loss": 6
     },
     {
       "hour": "15",
@@ -1726,12 +1742,12 @@
       "gross_loss": 0.0
     },
     "2026-07-13": {
-      "profit": -2411.3,
-      "pct": -2.41,
-      "trades": 17,
+      "profit": -6092.6,
+      "pct": -6.09,
+      "trades": 21,
       "wins": 11,
       "gross_win": 1185.2,
-      "gross_loss": 3596.5
+      "gross_loss": 7277.8
     }
   },
   "withdrawals": [],
