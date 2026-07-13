@@ -239,15 +239,15 @@
     },
     {
       "date": "07-13 14:07",
-      "equity": 47065.6
+      "equity": 48320.0
     },
     {
       "date": "07-13 14:07",
-      "equity": 46058.2
+      "equity": 47725.6
     },
     {
       "date": "07-13 14:07",
-      "equity": 45463.8
+      "equity": 46126.6
     },
     {
       "date": "07-13 14:07",
@@ -291,14 +291,18 @@
     },
     {
       "date": "07-13 18:36",
-      "equity": 45595.5
+      "equity": 45264.9
     },
     {
       "date": "07-13 18:36",
-      "equity": 45668.8
+      "equity": 45583.2
     },
     {
       "date": "07-13 18:36",
+      "equity": 45656.5
+    },
+    {
+      "date": "07-13 18:40",
       "equity": 45656.5
     }
   ],
@@ -477,20 +481,20 @@
       "previous": ""
     },
     {
+      "title": "Federal Budget Balance",
+      "country": "USD",
+      "date": "2026-07-13T13:59:00-04:00",
+      "impact": "Low",
+      "forecast": "-135.8B",
+      "previous": "-292.6B"
+    },
+    {
       "title": "MPC Member Pill Speaks",
       "country": "GBP",
       "date": "2026-07-13T14:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "Federal Budget Balance",
-      "country": "USD",
-      "date": "2026-07-13T14:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-135.8B",
-      "previous": "-292.6B"
     },
     {
       "title": "NZIER Business Confidence",
