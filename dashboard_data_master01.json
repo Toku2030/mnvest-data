@@ -1395,15 +1395,15 @@
     },
     {
       "date": "07-13 06:06",
-      "equity": 51355.8
+      "equity": 50484.9
     },
     {
       "date": "07-13 06:06",
-      "equity": 50958.0
+      "equity": 49492.5
     },
     {
       "date": "07-13 06:06",
-      "equity": 49440.9
+      "equity": 48846.3
     },
     {
       "date": "07-13 06:06",
@@ -1443,7 +1443,7 @@
     },
     {
       "date": "07-13 10:14",
-      "equity": 48873.8
+      "equity": 48966.0
     },
     {
       "date": "07-13 10:14",
@@ -1459,7 +1459,7 @@
     },
     {
       "date": "07-13 11:34",
-      "equity": 49107.7
+      "equity": 48991.8
     },
     {
       "date": "07-13 11:34",
@@ -1547,6 +1547,10 @@
     },
     {
       "date": "07-13 17:35",
+      "equity": 45910.6
+    },
+    {
+      "date": "07-13 17:48",
       "equity": 45910.6
     }
   ],
@@ -2161,7 +2165,7 @@
       "country": "USD",
       "date": "2026-07-15T08:30:00-04:00",
       "impact": "High",
-      "forecast": "0.3%",
+      "forecast": "0.4%",
       "previous": "0.4%"
     },
     {
@@ -2177,7 +2181,7 @@
       "country": "USD",
       "date": "2026-07-15T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "8.7",
+      "forecast": "9.4",
       "previous": "5.7"
     },
     {
@@ -2281,7 +2285,7 @@
       "country": "GBP",
       "date": "2026-07-16T02:00:00-04:00",
       "impact": "High",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "-0.1%"
     },
     {
@@ -2297,7 +2301,7 @@
       "country": "GBP",
       "date": "2026-07-16T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-22.8B",
+      "forecast": "-23.1B",
       "previous": "-26.0B"
     },
     {
@@ -2337,7 +2341,7 @@
       "country": "EUR",
       "date": "2026-07-16T05:00:00-04:00",
       "impact": "Low",
-      "forecast": "4.50B",
+      "forecast": "4.83B",
       "previous": "4.29B"
     },
     {
@@ -2345,7 +2349,7 @@
       "country": "EUR",
       "date": "2026-07-16T05:00:00-04:00",
       "impact": "Low",
-      "forecast": "2.5B",
+      "forecast": "2.8B",
       "previous": "1.3B"
     },
     {
@@ -2361,7 +2365,7 @@
       "country": "CAD",
       "date": "2026-07-16T08:15:00-04:00",
       "impact": "Low",
-      "forecast": "257K",
+      "forecast": "256K",
       "previous": "261K"
     },
     {
@@ -2369,7 +2373,7 @@
       "country": "USD",
       "date": "2026-07-16T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "-0.1%",
+      "forecast": "0.0%",
       "previous": "0.8%"
     },
     {
@@ -2377,7 +2381,7 @@
       "country": "USD",
       "date": "2026-07-16T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "12.1",
+      "forecast": "12.7",
       "previous": "10.3"
     },
     {
@@ -2385,7 +2389,7 @@
       "country": "USD",
       "date": "2026-07-16T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "0.3%",
+      "forecast": "0.2%",
       "previous": "0.9%"
     },
     {
@@ -2393,7 +2397,7 @@
       "country": "USD",
       "date": "2026-07-16T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "215K",
+      "forecast": "216K",
       "previous": "215K"
     },
     {
@@ -2417,7 +2421,7 @@
       "country": "USD",
       "date": "2026-07-16T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.3%",
+      "forecast": "-0.4%",
       "previous": "3.8%"
     },
     {
@@ -2473,7 +2477,7 @@
       "country": "EUR",
       "date": "2026-07-17T04:00:00-04:00",
       "impact": "Low",
-      "forecast": "17.1B",
+      "forecast": "18.1B",
       "previous": "15.7B"
     },
     {
@@ -2513,7 +2517,7 @@
       "country": "USD",
       "date": "2026-07-17T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.32M",
+      "forecast": "1.31M",
       "previous": "1.18M"
     },
     {
@@ -2521,7 +2525,7 @@
       "country": "USD",
       "date": "2026-07-17T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.4%",
+      "forecast": "-0.7%",
       "previous": "1.9%"
     },
     {
@@ -2545,7 +2549,7 @@
       "country": "USD",
       "date": "2026-07-17T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "51.4",
+      "forecast": "51.0",
       "previous": "48.9"
     },
     {
