@@ -476,6 +476,10 @@
     {
       "date": "07-15 01:41",
       "equity": 43785.4
+    },
+    {
+      "date": "07-15 02:40",
+      "equity": 43785.4
     }
   ],
   "hourly_distribution": [
@@ -911,7 +915,7 @@
     {
       "title": "New Home Prices m/m",
       "country": "CNY",
-      "date": "2026-07-14T21:45:00-04:00",
+      "date": "2026-07-14T21:30:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "-0.20%"
