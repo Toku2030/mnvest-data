@@ -4,22 +4,22 @@
     "login": 184063890
   },
   "metrics": {
-    "growth_pct": "-6.68%",
-    "net_profit": "-6677.00",
+    "growth_pct": "-6.64%",
+    "net_profit": "-6636.90",
     "max_drawdown": "-10379.70 (-21.33%)",
-    "current_equity": "39848.00",
-    "current_balance": "39848.00",
+    "current_equity": "39888.10",
+    "current_balance": "39888.10",
     "highest_balance": "48664.60",
     "total_deposit": "46525.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.64",
-    "expected_payoff": "-53.85",
-    "sharpe_ratio": "-6.36",
-    "win_rate": "71.8%",
-    "avg_win": "134.01",
+    "expected_payoff": "-53.10",
+    "sharpe_ratio": "-6.31",
+    "win_rate": "72.0%",
+    "avg_win": "132.97",
     "avg_loss": "531.55",
     "avg_duration": "1h 30m",
-    "total_trades": 124,
+    "total_trades": 125,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 124,
+      "count": 125,
       "percentage": 100.0
     }
   ],
@@ -343,7 +343,7 @@
     },
     {
       "date": "07-14 08:00",
-      "equity": 46011.6
+      "equity": 45924.7
     },
     {
       "date": "07-14 08:00",
@@ -375,7 +375,7 @@
     },
     {
       "date": "07-14 14:16",
-      "equity": 46343.6
+      "equity": 46180.7
     },
     {
       "date": "07-14 14:16",
@@ -407,15 +407,15 @@
     },
     {
       "date": "07-14 18:41",
-      "equity": 45056.3
+      "equity": 45933.3
     },
     {
       "date": "07-14 18:41",
-      "equity": 43928.2
+      "equity": 45204.9
     },
     {
       "date": "07-14 18:41",
-      "equity": 43199.8
+      "equity": 43870.8
     },
     {
       "date": "07-14 18:41",
@@ -455,15 +455,15 @@
     },
     {
       "date": "07-14 23:35",
-      "equity": 42927.1
+      "equity": 43473.8
     },
     {
       "date": "07-14 23:35",
-      "equity": 42912.5
+      "equity": 43688.5
     },
     {
       "date": "07-14 23:35",
-      "equity": 43518.6
+      "equity": 43747.9
     },
     {
       "date": "07-14 23:35",
@@ -663,15 +663,15 @@
     },
     {
       "date": "07-15 17:29",
-      "equity": 43590.0
+      "equity": 42450.0
     },
     {
       "date": "07-15 17:29",
-      "equity": 43962.4
+      "equity": 42541.4
     },
     {
       "date": "07-15 17:29",
-      "equity": 44053.8
+      "equity": 43657.4
     },
     {
       "date": "07-15 17:29",
@@ -787,11 +787,11 @@
     },
     {
       "date": "07-16 07:48",
-      "equity": 41375.3
+      "equity": 41121.5
     },
     {
       "date": "07-16 07:48",
-      "equity": 41441.2
+      "equity": 41374.0
     },
     {
       "date": "07-16 07:48",
@@ -839,7 +839,7 @@
     },
     {
       "date": "07-16 13:50",
-      "equity": 41879.0
+      "equity": 41979.6
     },
     {
       "date": "07-16 13:50",
@@ -1032,6 +1032,10 @@
     {
       "date": "07-17 19:50",
       "equity": 39848.0
+    },
+    {
+      "date": "07-17 19:55",
+      "equity": 39888.1
     }
   ],
   "hourly_distribution": [
@@ -1132,7 +1136,7 @@
     },
     {
       "hour": "19",
-      "win": 0,
+      "win": 1,
       "loss": 4
     },
     {
@@ -1206,11 +1210,11 @@
       "gross_loss": 7366.6
     },
     "2026-07-17": {
-      "profit": 1427.2,
-      "pct": 1.43,
-      "trades": 16,
-      "wins": 15,
-      "gross_win": 1470.1,
+      "profit": 1467.3,
+      "pct": 1.47,
+      "trades": 17,
+      "wins": 16,
+      "gross_win": 1510.2,
       "gross_loss": 42.9
     }
   },
