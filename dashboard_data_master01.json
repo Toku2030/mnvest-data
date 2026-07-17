@@ -4,22 +4,22 @@
     "login": 257459025
   },
   "metrics": {
-    "growth_pct": "-5.12%",
-    "net_profit": "-5121.30",
+    "growth_pct": "-5.08%",
+    "net_profit": "-5080.10",
     "max_drawdown": "-9759.20 (-18.77%)",
-    "current_equity": "44878.70",
-    "current_balance": "44878.70",
+    "current_equity": "44919.90",
+    "current_balance": "44919.90",
     "highest_balance": "52002.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.85",
-    "expected_payoff": "-18.36",
-    "sharpe_ratio": "-2.36",
-    "win_rate": "71.3%",
-    "avg_win": "145.56",
+    "expected_payoff": "-18.14",
+    "sharpe_ratio": "-2.34",
+    "win_rate": "71.4%",
+    "avg_win": "145.04",
     "avg_loss": "426.09",
     "avg_duration": "1h 30m",
-    "total_trades": 279,
+    "total_trades": 280,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 279,
+      "count": 280,
       "percentage": 100.0
     }
   ],
@@ -947,7 +947,7 @@
     },
     {
       "date": "07-15 08:33",
-      "equity": 46751.2
+      "equity": 46285.7
     },
     {
       "date": "07-15 08:35",
@@ -1003,11 +1003,11 @@
     },
     {
       "date": "07-15 17:30",
-      "equity": 44286.0
+      "equity": 45339.9
     },
     {
       "date": "07-15 17:30",
-      "equity": 45363.9
+      "equity": 45693.5
     },
     {
       "date": "07-15 18:50",
@@ -1156,6 +1156,10 @@
     {
       "date": "07-17 05:45",
       "equity": 44878.7
+    },
+    {
+      "date": "07-17 05:53",
+      "equity": 44919.9
     }
   ],
   "hourly_distribution": [
@@ -1186,7 +1190,7 @@
     },
     {
       "hour": "05",
-      "win": 10,
+      "win": 11,
       "loss": 1
     },
     {
@@ -1402,11 +1406,11 @@
       "gross_loss": 3843.2
     },
     "2026-07-17": {
-      "profit": 236.9,
-      "pct": 0.24,
-      "trades": 4,
-      "wins": 4,
-      "gross_win": 236.9,
+      "profit": 278.1,
+      "pct": 0.28,
+      "trades": 5,
+      "wins": 5,
+      "gross_win": 278.1,
       "gross_loss": 0.0
     }
   },
