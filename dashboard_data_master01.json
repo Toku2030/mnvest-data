@@ -4,22 +4,22 @@
     "login": 257459025
   },
   "metrics": {
-    "growth_pct": "-3.25%",
-    "net_profit": "-3249.40",
+    "growth_pct": "-3.20%",
+    "net_profit": "-3197.10",
     "max_drawdown": "-9759.20 (-18.77%)",
-    "current_equity": "46750.60",
-    "current_balance": "46750.60",
+    "current_equity": "46802.90",
+    "current_balance": "46802.90",
     "highest_balance": "52002.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.91",
-    "expected_payoff": "-10.98",
-    "sharpe_ratio": "-1.38",
-    "win_rate": "72.0%",
-    "avg_win": "145.52",
+    "expected_payoff": "-10.76",
+    "sharpe_ratio": "-1.36",
+    "win_rate": "72.1%",
+    "avg_win": "145.09",
     "avg_loss": "412.60",
     "avg_duration": "1h 30m",
-    "total_trades": 296,
+    "total_trades": 297,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 296,
+      "count": 297,
       "percentage": 100.0
     }
   ],
@@ -1163,7 +1163,7 @@
     },
     {
       "date": "07-17 08:12",
-      "equity": 44942.5
+      "equity": 45052.5
     },
     {
       "date": "07-17 09:25",
@@ -1175,7 +1175,7 @@
     },
     {
       "date": "07-17 11:54",
-      "equity": 45084.8
+      "equity": 45613.1
     },
     {
       "date": "07-17 11:54",
@@ -1224,6 +1224,10 @@
     {
       "date": "07-20 07:40",
       "equity": 46750.6
+    },
+    {
+      "date": "07-20 08:01",
+      "equity": 46802.9
     }
   ],
   "hourly_distribution": [
@@ -1269,7 +1273,7 @@
     },
     {
       "hour": "08",
-      "win": 17,
+      "win": 18,
       "loss": 7
     },
     {
@@ -1486,11 +1490,11 @@
       "gross_loss": 0.0
     },
     "2026-07-20": {
-      "profit": 839.1,
-      "pct": 0.84,
-      "trades": 6,
-      "wins": 4,
-      "gross_win": 956.7,
+      "profit": 891.4,
+      "pct": 0.89,
+      "trades": 7,
+      "wins": 5,
+      "gross_win": 1009.0,
       "gross_loss": 117.6
     }
   },
