@@ -6,10 +6,10 @@
   "metrics": {
     "growth_pct": "+0.31%",
     "net_profit": "+306.70",
-    "max_drawdown": "-197.80 (-0.66%)",
+    "max_drawdown": "-312.20 (-1.04%)",
     "current_equity": "30306.70",
     "current_balance": "30306.70",
-    "highest_balance": "30399.00",
+    "highest_balance": "30306.70",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "1.63",
@@ -171,19 +171,19 @@
     },
     {
       "date": "07-20 01:19",
-      "equity": 30399.0
+      "equity": 30020.2
     },
     {
       "date": "07-20 01:19",
-      "equity": 30302.3
+      "equity": 29923.5
     },
     {
       "date": "07-20 01:19",
-      "equity": 30228.6
+      "equity": 29849.8
     },
     {
       "date": "07-20 01:19",
-      "equity": 30394.4
+      "equity": 29740.0
     },
     {
       "date": "07-20 01:19",
@@ -279,6 +279,10 @@
     },
     {
       "date": "07-20 04:24",
+      "equity": 30306.7
+    },
+    {
+      "date": "07-20 04:52",
       "equity": 30306.7
     }
   ],
