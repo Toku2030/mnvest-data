@@ -4,7 +4,7 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-1.76%",
+    "growth_pct": "-5.87%",
     "net_profit": "-1759.70",
     "max_drawdown": "-3668.70 (-11.67%)",
     "current_equity": "28240.30",
@@ -971,7 +971,7 @@
   "daily_records": {
     "2026-07-19": {
       "profit": 44.4,
-      "pct": 0.04,
+      "pct": 0.15,
       "trades": 7,
       "wins": 5,
       "gross_win": 50.2,
@@ -979,7 +979,7 @@
     },
     "2026-07-20": {
       "profit": 1379.2,
-      "pct": 1.38,
+      "pct": 4.6,
       "trades": 122,
       "wins": 78,
       "gross_win": 2230.9,
@@ -987,7 +987,7 @@
     },
     "2026-07-21": {
       "profit": -3183.3,
-      "pct": -3.18,
+      "pct": -10.61,
       "trades": 73,
       "wins": 39,
       "gross_win": 582.1,
