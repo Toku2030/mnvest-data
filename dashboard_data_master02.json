@@ -4,7 +4,7 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-5.24%",
+    "growth_pct": "-17.45%",
     "net_profit": "-5236.20",
     "max_drawdown": "-6775.00 (-21.55%)",
     "current_equity": "24763.80",
@@ -1159,7 +1159,7 @@
   "daily_records": {
     "2026-07-19": {
       "profit": 44.4,
-      "pct": 0.04,
+      "pct": 0.15,
       "trades": 7,
       "wins": 5,
       "gross_win": 50.2,
@@ -1167,7 +1167,7 @@
     },
     "2026-07-20": {
       "profit": 1379.2,
-      "pct": 1.38,
+      "pct": 4.6,
       "trades": 122,
       "wins": 78,
       "gross_win": 2230.9,
@@ -1175,7 +1175,7 @@
     },
     "2026-07-21": {
       "profit": -3055.8,
-      "pct": -3.06,
+      "pct": -10.19,
       "trades": 92,
       "wins": 51,
       "gross_win": 745.1,
@@ -1183,7 +1183,7 @@
     },
     "2026-07-22": {
       "profit": -3604.0,
-      "pct": -3.6,
+      "pct": -12.01,
       "trades": 28,
       "wins": 11,
       "gross_win": 258.4,
@@ -1329,20 +1329,20 @@
       "previous": "4.9%"
     },
     {
-      "title": "German ZEW Economic Sentiment",
-      "country": "EUR",
-      "date": "2026-07-21T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "15.1",
-      "previous": "10.5"
-    },
-    {
       "title": "ZEW Economic Sentiment",
       "country": "EUR",
       "date": "2026-07-21T05:00:00-04:00",
       "impact": "Low",
       "forecast": "11.2",
       "previous": "9.5"
+    },
+    {
+      "title": "German ZEW Economic Sentiment",
+      "country": "EUR",
+      "date": "2026-07-21T05:00:00-04:00",
+      "impact": "Low",
+      "forecast": "15.1",
+      "previous": "10.5"
     },
     {
       "title": "German Buba President Nagel Speaks",
@@ -1463,6 +1463,14 @@
       "impact": "Low",
       "forecast": "-2.0M",
       "previous": "-1.7M"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-07-22T15:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Employment Change",
