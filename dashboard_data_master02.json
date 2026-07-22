@@ -4,7 +4,7 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-5.33%",
+    "growth_pct": "-17.76%",
     "net_profit": "-5328.40",
     "max_drawdown": "-6775.00 (-21.55%)",
     "current_equity": "24671.60",
@@ -1147,7 +1147,7 @@
   "daily_records": {
     "2026-07-19": {
       "profit": 44.4,
-      "pct": 0.04,
+      "pct": 0.15,
       "trades": 7,
       "wins": 5,
       "gross_win": 50.2,
@@ -1155,7 +1155,7 @@
     },
     "2026-07-20": {
       "profit": 1379.2,
-      "pct": 1.38,
+      "pct": 4.6,
       "trades": 122,
       "wins": 78,
       "gross_win": 2230.9,
@@ -1163,7 +1163,7 @@
     },
     "2026-07-21": {
       "profit": -3055.8,
-      "pct": -3.06,
+      "pct": -10.19,
       "trades": 92,
       "wins": 51,
       "gross_win": 745.1,
@@ -1171,7 +1171,7 @@
     },
     "2026-07-22": {
       "profit": -3696.2,
-      "pct": -3.7,
+      "pct": -12.32,
       "trades": 21,
       "wins": 10,
       "gross_win": 43.8,
@@ -1383,7 +1383,7 @@
     {
       "title": "Credit Card Spending y/y",
       "country": "NZD",
-      "date": "2026-07-21T23:00:00-04:00",
+      "date": "2026-07-21T23:03:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "5.1%"
