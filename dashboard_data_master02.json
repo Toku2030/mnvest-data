@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-28.43%",
-    "net_profit": "-8529.40",
+    "growth_pct": "-28.42%",
+    "net_profit": "-8526.50",
     "max_drawdown": "-10045.30 (-31.96%)",
-    "current_equity": "21470.60",
-    "current_balance": "21470.60",
+    "current_equity": "21473.50",
+    "current_balance": "21473.50",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.34",
-    "expected_payoff": "-22.33",
+    "profit_factor": "0.35",
+    "expected_payoff": "-22.26",
     "sharpe_ratio": "-11.89",
-    "win_rate": "62.3%",
-    "avg_win": "18.87",
+    "win_rate": "62.4%",
+    "avg_win": "18.81",
     "avg_loss": "91.06",
     "avg_duration": "1h 30m",
-    "total_trades": 382,
+    "total_trades": 383,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 382,
+      "count": 383,
       "percentage": 100.0
     }
   ],
@@ -51,7 +51,7 @@
     },
     {
       "date": "07-19 23:51",
-      "equity": 30030.8
+      "equity": 30010.0
     },
     {
       "date": "07-20 00:02",
@@ -63,7 +63,7 @@
     },
     {
       "date": "07-20 00:11",
-      "equity": 30045.0
+      "equity": 30049.7
     },
     {
       "date": "07-20 00:13",
@@ -75,15 +75,15 @@
     },
     {
       "date": "07-20 01:19",
-      "equity": 29955.5
+      "equity": 30029.9
     },
     {
       "date": "07-20 01:19",
-      "equity": 29838.2
+      "equity": 29825.1
     },
     {
       "date": "07-20 01:19",
-      "equity": 29849.8
+      "equity": 29836.7
     },
     {
       "date": "07-20 01:49",
@@ -143,19 +143,19 @@
     },
     {
       "date": "07-20 07:16",
-      "equity": 30397.3
+      "equity": 30401.9
     },
     {
       "date": "07-20 07:33",
-      "equity": 30948.0
+      "equity": 30365.3
     },
     {
       "date": "07-20 07:33",
-      "equity": 31142.4
+      "equity": 30236.6
     },
     {
       "date": "07-20 07:33",
-      "equity": 30977.5
+      "equity": 30782.9
     },
     {
       "date": "07-20 07:54",
@@ -287,7 +287,7 @@
     },
     {
       "date": "07-20 17:00",
-      "equity": 31110.8
+      "equity": 31152.4
     },
     {
       "date": "07-20 17:00",
@@ -411,11 +411,11 @@
     },
     {
       "date": "07-21 03:26",
-      "equity": 31205.5
+      "equity": 31273.1
     },
     {
       "date": "07-21 03:26",
-      "equity": 30616.6
+      "equity": 30725.2
     },
     {
       "date": "07-21 03:26",
@@ -431,7 +431,7 @@
     },
     {
       "date": "07-21 04:20",
-      "equity": 27818.6
+      "equity": 27824.8
     },
     {
       "date": "07-21 05:00",
@@ -475,11 +475,11 @@
     },
     {
       "date": "07-21 09:23",
-      "equity": 27926.1
+      "equity": 27925.8
     },
     {
       "date": "07-21 09:23",
-      "equity": 27912.2
+      "equity": 27937.9
     },
     {
       "date": "07-21 09:24",
@@ -523,11 +523,11 @@
     },
     {
       "date": "07-21 12:36",
-      "equity": 28164.3
+      "equity": 28101.8
     },
     {
       "date": "07-21 12:36",
-      "equity": 28185.6
+      "equity": 28167.2
     },
     {
       "date": "07-21 12:50",
@@ -543,7 +543,7 @@
     },
     {
       "date": "07-21 13:07",
-      "equity": 28194.5
+      "equity": 28199.9
     },
     {
       "date": "07-21 13:21",
@@ -559,7 +559,7 @@
     },
     {
       "date": "07-21 13:59",
-      "equity": 28221.6
+      "equity": 28220.1
     },
     {
       "date": "07-21 14:25",
@@ -603,7 +603,7 @@
     },
     {
       "date": "07-21 18:20",
-      "equity": 28247.1
+      "equity": 28246.3
     },
     {
       "date": "07-21 18:20",
@@ -631,7 +631,7 @@
     },
     {
       "date": "07-21 22:24",
-      "equity": 28304.4
+      "equity": 28384.9
     },
     {
       "date": "07-21 22:24",
@@ -663,11 +663,11 @@
     },
     {
       "date": "07-22 01:00",
-      "equity": 25649.7
+      "equity": 25357.4
     },
     {
       "date": "07-22 01:00",
-      "equity": 24983.8
+      "equity": 24778.5
     },
     {
       "date": "07-22 01:19",
@@ -715,11 +715,11 @@
     },
     {
       "date": "07-22 06:24",
-      "equity": 24771.4
+      "equity": 24826.8
     },
     {
       "date": "07-22 06:24",
-      "equity": 24784.3
+      "equity": 24839.7
     },
     {
       "date": "07-22 06:37",
@@ -763,7 +763,7 @@
     },
     {
       "date": "07-22 11:12",
-      "equity": 24872.7
+      "equity": 24880.9
     },
     {
       "date": "07-22 11:13",
@@ -815,7 +815,7 @@
     },
     {
       "date": "07-22 15:57",
-      "equity": 24919.3
+      "equity": 24924.7
     },
     {
       "date": "07-22 15:57",
@@ -867,7 +867,7 @@
     },
     {
       "date": "07-22 23:57",
-      "equity": 24944.5
+      "equity": 24954.4
     },
     {
       "date": "07-22 23:57",
@@ -875,7 +875,7 @@
     },
     {
       "date": "07-22 23:57",
-      "equity": 24781.7
+      "equity": 25259.6
     },
     {
       "date": "07-23 00:23",
@@ -903,7 +903,7 @@
     },
     {
       "date": "07-23 01:30",
-      "equity": 25329.9
+      "equity": 25320.6
     },
     {
       "date": "07-23 01:37",
@@ -991,7 +991,7 @@
     },
     {
       "date": "07-23 11:07",
-      "equity": 25449.3
+      "equity": 25415.0
     },
     {
       "date": "07-23 11:27",
@@ -1007,11 +1007,11 @@
     },
     {
       "date": "07-23 12:24",
-      "equity": 23941.0
+      "equity": 24271.5
     },
     {
       "date": "07-23 12:24",
-      "equity": 22132.4
+      "equity": 22486.7
     },
     {
       "date": "07-23 13:20",
@@ -1035,7 +1035,7 @@
     },
     {
       "date": "07-23 15:41",
-      "equity": 21395.6
+      "equity": 21437.7
     },
     {
       "date": "07-23 16:20",
@@ -1051,11 +1051,15 @@
     },
     {
       "date": "07-23 17:09",
-      "equity": 21436.7
+      "equity": 21470.8
     },
     {
       "date": "07-23 18:28",
       "equity": 21470.6
+    },
+    {
+      "date": "07-23 18:31",
+      "equity": 21473.5
     }
   ],
   "hourly_distribution": [
@@ -1151,7 +1155,7 @@
     },
     {
       "hour": "18",
-      "win": 7,
+      "win": 8,
       "loss": 5
     },
     {
@@ -1214,13 +1218,575 @@
       "gross_loss": 4272.6
     },
     "2026-07-23": {
-      "profit": -3806.4,
-      "pct": -12.69,
-      "trades": 68,
-      "wins": 45,
-      "gross_win": 283.5,
+      "profit": -3803.5,
+      "pct": -12.68,
+      "trades": 69,
+      "wins": 46,
+      "gross_win": 286.4,
       "gross_loss": 4089.9
     }
   },
-  "withdrawals": []
+  "withdrawals": [],
+  "market_events": [
+    {
+      "title": "Trade Balance",
+      "country": "NZD",
+      "date": "2026-07-19T18:45:00-04:00",
+      "impact": "Low",
+      "forecast": "250M",
+      "previous": "800M"
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "JPY",
+      "date": "2026-07-19T19:00:00-04:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Rightmove HPI m/m",
+      "country": "GBP",
+      "date": "2026-07-19T19:01:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.6%"
+    },
+    {
+      "title": "1-y Loan Prime Rate",
+      "country": "CNY",
+      "date": "2026-07-19T21:00:00-04:00",
+      "impact": "Low",
+      "forecast": "3.00%",
+      "previous": "3.00%"
+    },
+    {
+      "title": "5-y Loan Prime Rate",
+      "country": "CNY",
+      "date": "2026-07-19T21:00:00-04:00",
+      "impact": "Low",
+      "forecast": "3.50%",
+      "previous": "3.50%"
+    },
+    {
+      "title": "German PPI m/m",
+      "country": "EUR",
+      "date": "2026-07-20T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.2%",
+      "previous": "0.3%"
+    },
+    {
+      "title": "CPI m/m",
+      "country": "CAD",
+      "date": "2026-07-20T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "-0.2%",
+      "previous": "1.0%"
+    },
+    {
+      "title": "Median CPI y/y",
+      "country": "CAD",
+      "date": "2026-07-20T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "2.1%",
+      "previous": "2.1%"
+    },
+    {
+      "title": "Trimmed CPI y/y",
+      "country": "CAD",
+      "date": "2026-07-20T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "2.0%",
+      "previous": "2.0%"
+    },
+    {
+      "title": "Common CPI y/y",
+      "country": "CAD",
+      "date": "2026-07-20T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "2.5%",
+      "previous": "2.7%"
+    },
+    {
+      "title": "Core CPI m/m",
+      "country": "CAD",
+      "date": "2026-07-20T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "0.6%"
+    },
+    {
+      "title": "CB Leading Index m/m",
+      "country": "USD",
+      "date": "2026-07-20T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.1%",
+      "previous": "0.1%"
+    },
+    {
+      "title": "CPI q/q",
+      "country": "NZD",
+      "date": "2026-07-20T18:45:00-04:00",
+      "impact": "High",
+      "forecast": "1.4%",
+      "previous": "0.9%"
+    },
+    {
+      "title": "Claimant Count Change",
+      "country": "GBP",
+      "date": "2026-07-21T02:00:00-04:00",
+      "impact": "High",
+      "forecast": "29.4K",
+      "previous": "31.2K"
+    },
+    {
+      "title": "Average Earnings Index 3m/y",
+      "country": "GBP",
+      "date": "2026-07-21T02:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "4.5%",
+      "previous": "4.4%"
+    },
+    {
+      "title": "Public Sector Net Borrowing",
+      "country": "GBP",
+      "date": "2026-07-21T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "17.8B",
+      "previous": "23.3B"
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "GBP",
+      "date": "2026-07-21T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "4.9%",
+      "previous": "4.9%"
+    },
+    {
+      "title": "ZEW Economic Sentiment",
+      "country": "EUR",
+      "date": "2026-07-21T05:00:00-04:00",
+      "impact": "Low",
+      "forecast": "11.2",
+      "previous": "9.5"
+    },
+    {
+      "title": "German ZEW Economic Sentiment",
+      "country": "EUR",
+      "date": "2026-07-21T05:00:00-04:00",
+      "impact": "Low",
+      "forecast": "15.1",
+      "previous": "10.5"
+    },
+    {
+      "title": "German Buba President Nagel Speaks",
+      "country": "EUR",
+      "date": "2026-07-21T07:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "ADP Weekly Employment Change",
+      "country": "USD",
+      "date": "2026-07-21T08:15:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "19.8K"
+    },
+    {
+      "title": "GDT Price Index",
+      "country": "NZD",
+      "date": "2026-07-21T11:16:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-4.9%"
+    },
+    {
+      "title": "API Weekly Statistical Bulletin",
+      "country": "USD",
+      "date": "2026-07-21T16:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Trade Balance",
+      "country": "JPY",
+      "date": "2026-07-21T19:50:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.56T",
+      "previous": "-0.09T"
+    },
+    {
+      "title": "MI Leading Index m/m",
+      "country": "AUD",
+      "date": "2026-07-21T20:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "0.0%"
+    },
+    {
+      "title": "Credit Card Spending y/y",
+      "country": "NZD",
+      "date": "2026-07-21T23:03:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "5.1%"
+    },
+    {
+      "title": "CPI y/y",
+      "country": "GBP",
+      "date": "2026-07-22T02:00:00-04:00",
+      "impact": "High",
+      "forecast": "2.7%",
+      "previous": "2.8%"
+    },
+    {
+      "title": "Core CPI y/y",
+      "country": "GBP",
+      "date": "2026-07-22T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "2.5%",
+      "previous": "2.6%"
+    },
+    {
+      "title": "PPI Input m/m",
+      "country": "GBP",
+      "date": "2026-07-22T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.7%",
+      "previous": "0.2%"
+    },
+    {
+      "title": "PPI Output m/m",
+      "country": "GBP",
+      "date": "2026-07-22T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.1%",
+      "previous": "0.5%"
+    },
+    {
+      "title": "RPI y/y",
+      "country": "GBP",
+      "date": "2026-07-22T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "3.0%",
+      "previous": "3.1%"
+    },
+    {
+      "title": "HPI y/y",
+      "country": "GBP",
+      "date": "2026-07-22T04:30:00-04:00",
+      "impact": "Low",
+      "forecast": "3.2%",
+      "previous": "3.8%"
+    },
+    {
+      "title": "Crude Oil Inventories",
+      "country": "USD",
+      "date": "2026-07-22T10:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-2.0M",
+      "previous": "-1.7M"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-07-22T15:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Employment Change",
+      "country": "AUD",
+      "date": "2026-07-22T21:30:00-04:00",
+      "impact": "High",
+      "forecast": "16.4K",
+      "previous": "40.3K"
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "AUD",
+      "date": "2026-07-22T21:30:00-04:00",
+      "impact": "High",
+      "forecast": "4.4%",
+      "previous": "4.4%"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-07-23T04:56:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-8.6%"
+    },
+    {
+      "title": "CBI Industrial Order Expectations",
+      "country": "GBP",
+      "date": "2026-07-23T06:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-40",
+      "previous": "-45"
+    },
+    {
+      "title": "Main Refinancing Rate",
+      "country": "EUR",
+      "date": "2026-07-23T08:15:00-04:00",
+      "impact": "High",
+      "forecast": "2.40%",
+      "previous": "2.40%"
+    },
+    {
+      "title": "Monetary Policy Statement",
+      "country": "EUR",
+      "date": "2026-07-23T08:15:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Core Retail Sales m/m",
+      "country": "CAD",
+      "date": "2026-07-23T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "1.3%",
+      "previous": "0.1%"
+    },
+    {
+      "title": "Retail Sales m/m",
+      "country": "CAD",
+      "date": "2026-07-23T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "1.0%",
+      "previous": "0.5%"
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-07-23T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "211K",
+      "previous": "208K"
+    },
+    {
+      "title": "ECB Press Conference",
+      "country": "EUR",
+      "date": "2026-07-23T08:45:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "CB Leading Index m/m",
+      "country": "CNY",
+      "date": "2026-07-23T09:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.1%"
+    },
+    {
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-07-23T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-17",
+      "previous": "-18"
+    },
+    {
+      "title": "Natural Gas Storage",
+      "country": "USD",
+      "date": "2026-07-23T10:30:00-04:00",
+      "impact": "Low",
+      "forecast": "29B",
+      "previous": "41B"
+    },
+    {
+      "title": "Treasury Currency Report",
+      "country": "USD",
+      "date": "2026-07-23T16:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Flash Manufacturing PMI",
+      "country": "AUD",
+      "date": "2026-07-23T19:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "51.2"
+    },
+    {
+      "title": "Flash Services PMI",
+      "country": "AUD",
+      "date": "2026-07-23T19:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "49.9"
+    },
+    {
+      "title": "GfK Consumer Confidence",
+      "country": "GBP",
+      "date": "2026-07-23T19:01:00-04:00",
+      "impact": "Low",
+      "forecast": "-22",
+      "previous": "-23"
+    },
+    {
+      "title": "National Core CPI y/y",
+      "country": "JPY",
+      "date": "2026-07-23T19:30:00-04:00",
+      "impact": "Low",
+      "forecast": "1.6%",
+      "previous": "1.4%"
+    },
+    {
+      "title": "Flash Manufacturing PMI",
+      "country": "JPY",
+      "date": "2026-07-23T20:30:00-04:00",
+      "impact": "Low",
+      "forecast": "55.0",
+      "previous": "54.9"
+    },
+    {
+      "title": "German GfK Consumer Climate",
+      "country": "EUR",
+      "date": "2026-07-24T02:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-28.7",
+      "previous": "-29.2"
+    },
+    {
+      "title": "Retail Sales m/m",
+      "country": "GBP",
+      "date": "2026-07-24T02:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "-0.3%",
+      "previous": "1.2%"
+    },
+    {
+      "title": "French Flash Manufacturing PMI",
+      "country": "EUR",
+      "date": "2026-07-24T03:15:00-04:00",
+      "impact": "Medium",
+      "forecast": "51.0",
+      "previous": "50.7"
+    },
+    {
+      "title": "French Flash Services PMI",
+      "country": "EUR",
+      "date": "2026-07-24T03:15:00-04:00",
+      "impact": "Medium",
+      "forecast": "47.5",
+      "previous": "47.4"
+    },
+    {
+      "title": "German Flash Manufacturing PMI",
+      "country": "EUR",
+      "date": "2026-07-24T03:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "50.4",
+      "previous": "50.0"
+    },
+    {
+      "title": "German Flash Services PMI",
+      "country": "EUR",
+      "date": "2026-07-24T03:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "49.0",
+      "previous": "46.8"
+    },
+    {
+      "title": "Flash Manufacturing PMI",
+      "country": "EUR",
+      "date": "2026-07-24T04:00:00-04:00",
+      "impact": "Low",
+      "forecast": "51.5",
+      "previous": "51.3"
+    },
+    {
+      "title": "Flash Services PMI",
+      "country": "EUR",
+      "date": "2026-07-24T04:00:00-04:00",
+      "impact": "Low",
+      "forecast": "49.8",
+      "previous": "48.9"
+    },
+    {
+      "title": "Flash Manufacturing PMI",
+      "country": "GBP",
+      "date": "2026-07-24T04:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "52.0",
+      "previous": "53.1"
+    },
+    {
+      "title": "Flash Services PMI",
+      "country": "GBP",
+      "date": "2026-07-24T04:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "49.4",
+      "previous": "48.7"
+    },
+    {
+      "title": "IPPI m/m",
+      "country": "CAD",
+      "date": "2026-07-24T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.4%",
+      "previous": "1.2%"
+    },
+    {
+      "title": "NHPI m/m",
+      "country": "CAD",
+      "date": "2026-07-24T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.2%",
+      "previous": "-0.3%"
+    },
+    {
+      "title": "RMPI m/m",
+      "country": "CAD",
+      "date": "2026-07-24T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-1.5%",
+      "previous": "0.7%"
+    },
+    {
+      "title": "Belgian NBB Business Climate",
+      "country": "EUR",
+      "date": "2026-07-24T09:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-10.2",
+      "previous": "-12.4"
+    },
+    {
+      "title": "Flash Manufacturing PMI",
+      "country": "USD",
+      "date": "2026-07-24T09:45:00-04:00",
+      "impact": "Low",
+      "forecast": "54.4",
+      "previous": "55.7"
+    },
+    {
+      "title": "Flash Services PMI",
+      "country": "USD",
+      "date": "2026-07-24T09:45:00-04:00",
+      "impact": "Low",
+      "forecast": "51.3",
+      "previous": "51.3"
+    },
+    {
+      "title": "New Home Sales",
+      "country": "USD",
+      "date": "2026-07-24T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "609K",
+      "previous": "580K"
+    }
+  ]
 }
