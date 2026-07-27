@@ -4,22 +4,22 @@
     "login": 257459025
   },
   "metrics": {
-    "growth_pct": "-15.20%",
-    "net_profit": "-7601.80",
-    "max_drawdown": "-10959.50 (-21.08%)",
-    "current_equity": "42398.20",
-    "current_balance": "42398.20",
+    "growth_pct": "-15.12%",
+    "net_profit": "-7559.50",
+    "max_drawdown": "-10906.80 (-20.97%)",
+    "current_equity": "42440.50",
+    "current_balance": "42440.50",
     "highest_balance": "52002.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.85",
-    "expected_payoff": "-18.50",
-    "sharpe_ratio": "-2.44",
-    "win_rate": "72.0%",
-    "avg_win": "140.34",
+    "expected_payoff": "-18.35",
+    "sharpe_ratio": "-2.43",
+    "win_rate": "72.1%",
+    "avg_win": "140.01",
     "avg_loss": "427.32",
     "avg_duration": "1h 30m",
-    "total_trades": 411,
+    "total_trades": 412,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 411,
+      "count": 412,
       "percentage": 100.0
     }
   ],
@@ -835,7 +835,7 @@
     },
     {
       "date": "07-27 00:59",
-      "equity": 41349.3
+      "equity": 41420.0
     },
     {
       "date": "07-27 02:34",
@@ -843,7 +843,7 @@
     },
     {
       "date": "07-27 07:20",
-      "equity": 41356.8
+      "equity": 41398.1
     },
     {
       "date": "07-27 07:45",
@@ -860,6 +860,10 @@
     {
       "date": "07-27 11:45",
       "equity": 42398.2
+    },
+    {
+      "date": "07-27 12:11",
+      "equity": 42440.5
     }
   ],
   "hourly_distribution": [
@@ -925,7 +929,7 @@
     },
     {
       "hour": "12",
-      "win": 18,
+      "win": 19,
       "loss": 6
     },
     {
@@ -1170,11 +1174,11 @@
       "gross_loss": 0.0
     },
     "2026-07-27": {
-      "profit": -2213.2,
-      "pct": -4.43,
-      "trades": 18,
-      "wins": 11,
-      "gross_win": 1426.2,
+      "profit": -2170.9,
+      "pct": -4.34,
+      "trades": 19,
+      "wins": 12,
+      "gross_win": 1468.5,
       "gross_loss": 3639.4
     }
   },
