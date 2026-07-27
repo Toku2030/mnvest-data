@@ -4,22 +4,22 @@
     "login": 257459025
   },
   "metrics": {
-    "growth_pct": "-17.27%",
-    "net_profit": "-8632.70",
+    "growth_pct": "-17.17%",
+    "net_profit": "-8587.30",
     "max_drawdown": "-10906.80 (-20.97%)",
-    "current_equity": "41367.30",
-    "current_balance": "41367.30",
+    "current_equity": "41412.70",
+    "current_balance": "41412.70",
     "highest_balance": "52002.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.82",
-    "expected_payoff": "-21.58",
-    "sharpe_ratio": "-2.71",
+    "profit_factor": "0.83",
+    "expected_payoff": "-21.41",
+    "sharpe_ratio": "-2.70",
     "win_rate": "71.8%",
-    "avg_win": "140.90",
+    "avg_win": "140.57",
     "avg_loss": "434.26",
     "avg_duration": "1h 30m",
-    "total_trades": 400,
+    "total_trades": 401,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 400,
+      "count": 401,
       "percentage": 100.0
     }
   ],
@@ -183,7 +183,7 @@
     },
     {
       "date": "07-06 07:33",
-      "equity": 45087.9
+      "equity": 45007.4
     },
     {
       "date": "07-06 07:40",
@@ -219,7 +219,7 @@
     },
     {
       "date": "07-07 01:00",
-      "equity": 47268.7
+      "equity": 47119.7
     },
     {
       "date": "07-07 02:30",
@@ -231,7 +231,7 @@
     },
     {
       "date": "07-07 04:10",
-      "equity": 48018.8
+      "equity": 48300.8
     },
     {
       "date": "07-07 05:02",
@@ -435,7 +435,7 @@
     },
     {
       "date": "07-14 08:00",
-      "equity": 47117.3
+      "equity": 47032.3
     },
     {
       "date": "07-14 11:20",
@@ -463,7 +463,7 @@
     },
     {
       "date": "07-14 23:10",
-      "equity": 44057.2
+      "equity": 43958.7
     },
     {
       "date": "07-14 23:35",
@@ -491,7 +491,7 @@
     },
     {
       "date": "07-15 08:33",
-      "equity": 46958.3
+      "equity": 46751.2
     },
     {
       "date": "07-15 09:35",
@@ -503,7 +503,7 @@
     },
     {
       "date": "07-15 11:41",
-      "equity": 47542.8
+      "equity": 47430.8
     },
     {
       "date": "07-15 12:35",
@@ -511,7 +511,7 @@
     },
     {
       "date": "07-15 14:46",
-      "equity": 44046.8
+      "equity": 44181.7
     },
     {
       "date": "07-15 16:10",
@@ -519,7 +519,7 @@
     },
     {
       "date": "07-15 17:30",
-      "equity": 44208.2
+      "equity": 45339.9
     },
     {
       "date": "07-15 18:50",
@@ -535,11 +535,11 @@
     },
     {
       "date": "07-16 02:16",
-      "equity": 43244.8
+      "equity": 42553.9
     },
     {
       "date": "07-16 03:45",
-      "equity": 42361.2
+      "equity": 42262.9
     },
     {
       "date": "07-16 05:44",
@@ -599,7 +599,7 @@
     },
     {
       "date": "07-17 08:12",
-      "equity": 44942.5
+      "equity": 45052.5
     },
     {
       "date": "07-17 10:42",
@@ -727,7 +727,7 @@
     },
     {
       "date": "07-22 16:11",
-      "equity": 43402.7
+      "equity": 43960.7
     },
     {
       "date": "07-23 00:00",
@@ -791,7 +791,7 @@
     },
     {
       "date": "07-24 05:18",
-      "equity": 45277.2
+      "equity": 44472.3
     },
     {
       "date": "07-24 09:30",
@@ -815,7 +815,7 @@
     },
     {
       "date": "07-24 20:50",
-      "equity": 44462.9
+      "equity": 44498.5
     },
     {
       "date": "07-26 22:05",
@@ -842,8 +842,8 @@
       "equity": 41367.3
     },
     {
-      "date": "07-27 02:35",
-      "equity": 41367.3
+      "date": "07-27 02:51",
+      "equity": 41412.7
     }
   ],
   "hourly_distribution": [
@@ -859,7 +859,7 @@
     },
     {
       "hour": "02",
-      "win": 10,
+      "win": 11,
       "loss": 6
     },
     {
@@ -1154,11 +1154,11 @@
       "gross_loss": 0.0
     },
     "2026-07-27": {
-      "profit": -3244.1,
-      "pct": -6.49,
-      "trades": 7,
-      "wins": 2,
-      "gross_win": 324.8,
+      "profit": -3198.7,
+      "pct": -6.4,
+      "trades": 8,
+      "wins": 3,
+      "gross_win": 370.2,
       "gross_loss": 3568.9
     }
   },
