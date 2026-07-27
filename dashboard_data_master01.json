@@ -4,22 +4,22 @@
     "login": 257459025
   },
   "metrics": {
-    "growth_pct": "-14.47%",
-    "net_profit": "-7233.80",
-    "max_drawdown": "-10959.50 (-21.08%)",
-    "current_equity": "42766.20",
-    "current_balance": "42766.20",
+    "growth_pct": "-13.14%",
+    "net_profit": "-6568.80",
+    "max_drawdown": "-10906.80 (-20.97%)",
+    "current_equity": "43431.20",
+    "current_balance": "43431.20",
     "highest_balance": "52002.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.85",
-    "expected_payoff": "-17.35",
-    "sharpe_ratio": "-2.34",
+    "profit_factor": "0.87",
+    "expected_payoff": "-15.60",
+    "sharpe_ratio": "-2.14",
     "win_rate": "72.4%",
-    "avg_win": "138.77",
-    "avg_loss": "427.32",
+    "avg_win": "139.71",
+    "avg_loss": "423.96",
     "avg_duration": "1h 30m",
-    "total_trades": 417,
+    "total_trades": 421,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 417,
+      "count": 421,
       "percentage": 100.0
     }
   ],
@@ -203,7 +203,7 @@
     },
     {
       "date": "07-06 14:10",
-      "equity": 46342.4
+      "equity": 46436.4
     },
     {
       "date": "07-06 14:34",
@@ -219,7 +219,7 @@
     },
     {
       "date": "07-07 01:00",
-      "equity": 47903.1
+      "equity": 47119.7
     },
     {
       "date": "07-07 02:30",
@@ -227,11 +227,11 @@
     },
     {
       "date": "07-07 03:24",
-      "equity": 47891.7
+      "equity": 48012.0
     },
     {
       "date": "07-07 04:10",
-      "equity": 49140.3
+      "equity": 48238.0
     },
     {
       "date": "07-07 05:02",
@@ -375,7 +375,7 @@
     },
     {
       "date": "07-13 06:06",
-      "equity": 50484.9
+      "equity": 51604.2
     },
     {
       "date": "07-13 06:30",
@@ -443,7 +443,7 @@
     },
     {
       "date": "07-14 14:16",
-      "equity": 47459.5
+      "equity": 47288.9
     },
     {
       "date": "07-14 15:35",
@@ -451,7 +451,7 @@
     },
     {
       "date": "07-14 18:37",
-      "equity": 46837.6
+      "equity": 46024.4
     },
     {
       "date": "07-14 18:40",
@@ -463,11 +463,11 @@
     },
     {
       "date": "07-14 23:10",
-      "equity": 43958.7
+      "equity": 44057.2
     },
     {
       "date": "07-14 23:35",
-      "equity": 44997.9
+      "equity": 44764.9
     },
     {
       "date": "07-15 02:40",
@@ -479,7 +479,7 @@
     },
     {
       "date": "07-15 05:42",
-      "equity": 45915.4
+      "equity": 45189.0
     },
     {
       "date": "07-15 07:05",
@@ -491,7 +491,7 @@
     },
     {
       "date": "07-15 08:33",
-      "equity": 46751.2
+      "equity": 46958.3
     },
     {
       "date": "07-15 09:35",
@@ -503,7 +503,7 @@
     },
     {
       "date": "07-15 11:41",
-      "equity": 47430.8
+      "equity": 47542.8
     },
     {
       "date": "07-15 12:35",
@@ -519,7 +519,7 @@
     },
     {
       "date": "07-15 17:30",
-      "equity": 45339.9
+      "equity": 44208.2
     },
     {
       "date": "07-15 18:50",
@@ -535,7 +535,7 @@
     },
     {
       "date": "07-16 02:16",
-      "equity": 42553.9
+      "equity": 43951.3
     },
     {
       "date": "07-16 03:45",
@@ -547,7 +547,7 @@
     },
     {
       "date": "07-16 06:18",
-      "equity": 42990.0
+      "equity": 42867.7
     },
     {
       "date": "07-16 07:18",
@@ -599,7 +599,7 @@
     },
     {
       "date": "07-17 08:12",
-      "equity": 45052.5
+      "equity": 44942.5
     },
     {
       "date": "07-17 10:42",
@@ -663,7 +663,7 @@
     },
     {
       "date": "07-21 05:30",
-      "equity": 47786.2
+      "equity": 46547.7
     },
     {
       "date": "07-21 07:15",
@@ -691,7 +691,7 @@
     },
     {
       "date": "07-21 22:53",
-      "equity": 45241.6
+      "equity": 45293.9
     },
     {
       "date": "07-22 00:05",
@@ -703,7 +703,7 @@
     },
     {
       "date": "07-22 01:04",
-      "equity": 42767.2
+      "equity": 42503.0
     },
     {
       "date": "07-22 06:05",
@@ -755,7 +755,7 @@
     },
     {
       "date": "07-23 05:57",
-      "equity": 45362.3
+      "equity": 45476.1
     },
     {
       "date": "07-23 09:26",
@@ -767,7 +767,7 @@
     },
     {
       "date": "07-23 11:11",
-      "equity": 46114.5
+      "equity": 46208.6
     },
     {
       "date": "07-23 15:15",
@@ -787,7 +787,7 @@
     },
     {
       "date": "07-24 00:11",
-      "equity": 47084.5
+      "equity": 46628.4
     },
     {
       "date": "07-24 05:18",
@@ -835,7 +835,7 @@
     },
     {
       "date": "07-27 00:59",
-      "equity": 41349.3
+      "equity": 41420.0
     },
     {
       "date": "07-27 02:34",
@@ -843,7 +843,7 @@
     },
     {
       "date": "07-27 07:20",
-      "equity": 41398.1
+      "equity": 41957.0
     },
     {
       "date": "07-27 07:45",
@@ -851,7 +851,7 @@
     },
     {
       "date": "07-27 09:51",
-      "equity": 42190.4
+      "equity": 42108.2
     },
     {
       "date": "07-27 10:45",
@@ -874,8 +874,12 @@
       "equity": 42704.2
     },
     {
-      "date": "07-27 19:21",
-      "equity": 42766.2
+      "date": "07-27 20:40",
+      "equity": 43295.9
+    },
+    {
+      "date": "07-27 20:40",
+      "equity": 43431.2
     }
   ],
   "hourly_distribution": [
@@ -981,8 +985,8 @@
     },
     {
       "hour": "20",
-      "win": 5,
-      "loss": 4
+      "win": 8,
+      "loss": 5
     },
     {
       "hour": "21",
@@ -1186,12 +1190,12 @@
       "gross_loss": 0.0
     },
     "2026-07-27": {
-      "profit": -1845.2,
-      "pct": -3.69,
-      "trades": 24,
-      "wins": 17,
-      "gross_win": 1794.2,
-      "gross_loss": 3639.4
+      "profit": -1180.2,
+      "pct": -2.36,
+      "trades": 28,
+      "wins": 20,
+      "gross_win": 2495.9,
+      "gross_loss": 3676.1
     }
   },
   "withdrawals": [],
@@ -1273,7 +1277,7 @@
       "country": "GBP",
       "date": "2026-07-27T19:01:00-04:00",
       "impact": "Low",
-      "forecast": "1.2%",
+      "forecast": "1.1%",
       "previous": "1.2%"
     },
     {
@@ -1297,13 +1301,13 @@
       "country": "EUR",
       "date": "2026-07-28T03:00:00-04:00",
       "impact": "Low",
-      "forecast": "10.7%",
+      "forecast": "10.1%",
       "previous": "10.8%"
     },
     {
       "title": "German Buba Monthly Report",
       "country": "EUR",
-      "date": "2026-07-28T06:03:00-04:00",
+      "date": "2026-07-28T06:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -1321,7 +1325,7 @@
       "country": "USD",
       "date": "2026-07-28T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-98.0B",
+      "forecast": "-100.3B",
       "previous": "-105.8B"
     },
     {
@@ -1329,7 +1333,7 @@
       "country": "USD",
       "date": "2026-07-28T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.4%",
       "previous": "0.3%"
     },
     {
@@ -1337,7 +1341,7 @@
       "country": "USD",
       "date": "2026-07-28T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "-0.1%"
     },
     {
@@ -1345,7 +1349,7 @@
       "country": "USD",
       "date": "2026-07-28T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.8%",
+      "forecast": "1.3%",
       "previous": "1.1%"
     },
     {
@@ -1353,7 +1357,7 @@
       "country": "USD",
       "date": "2026-07-28T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "92.1",
+      "forecast": "92.4",
       "previous": "91.2"
     },
     {
@@ -1361,7 +1365,7 @@
       "country": "USD",
       "date": "2026-07-28T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "7",
       "previous": "4"
     },
     {
@@ -1393,7 +1397,7 @@
       "country": "AUD",
       "date": "2026-07-28T21:30:00-04:00",
       "impact": "High",
-      "forecast": "0.4%",
+      "forecast": "0.3%",
       "previous": "0.4%"
     },
     {
@@ -1401,7 +1405,7 @@
       "country": "EUR",
       "date": "2026-07-29T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.8%",
+      "forecast": "-0.7%",
       "previous": "0.7%"
     },
     {
@@ -1425,7 +1429,7 @@
       "country": "GBP",
       "date": "2026-07-29T04:30:00-04:00",
       "impact": "Low",
-      "forecast": "56K",
+      "forecast": "57K",
       "previous": "56K"
     },
     {
@@ -1449,7 +1453,7 @@
       "country": "USD",
       "date": "2026-07-29T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.7M",
       "previous": "2.0M"
     },
     {
@@ -1626,7 +1630,7 @@
       "date": "2026-07-30T05:33:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "3.63|1.7"
     },
     {
       "title": "BOE Monetary Policy Report",
