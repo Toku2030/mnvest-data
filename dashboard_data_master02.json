@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-27.99%",
-    "net_profit": "-8397.10",
+    "growth_pct": "-27.79%",
+    "net_profit": "-8337.10",
     "max_drawdown": "-10045.30 (-31.96%)",
-    "current_equity": "21602.90",
-    "current_balance": "21602.90",
+    "current_equity": "21662.90",
+    "current_balance": "21662.90",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.39",
-    "expected_payoff": "-17.00",
-    "sharpe_ratio": "-8.60",
-    "win_rate": "65.2%",
-    "avg_win": "16.78",
+    "profit_factor": "0.40",
+    "expected_payoff": "-16.74",
+    "sharpe_ratio": "-8.52",
+    "win_rate": "65.5%",
+    "avg_win": "16.76",
     "avg_loss": "80.71",
     "avg_duration": "1h 30m",
-    "total_trades": 494,
+    "total_trades": 498,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 494,
+      "count": 498,
       "percentage": 100.0
     }
   ],
@@ -38,16 +38,12 @@
       "equity": 30000.0
     },
     {
-      "date": "07-19 22:58",
+      "date": "07-19 23:00",
       "equity": 30001.8
     },
     {
-      "date": "07-19 23:13",
-      "equity": 30003.8
-    },
-    {
       "date": "07-19 23:51",
-      "equity": 30050.2
+      "equity": 30036.6
     },
     {
       "date": "07-20 00:02",
@@ -58,60 +54,48 @@
       "equity": 30044.4
     },
     {
-      "date": "07-20 00:13",
+      "date": "07-20 00:22",
       "equity": 30050.3
     },
     {
-      "date": "07-20 01:04",
-      "equity": 30052.2
+      "date": "07-20 01:19",
+      "equity": 30029.9
     },
     {
       "date": "07-20 01:19",
-      "equity": 29934.9
-    },
-    {
-      "date": "07-20 01:19",
-      "equity": 30228.6
+      "equity": 30302.3
     },
     {
       "date": "07-20 01:50",
       "equity": 30284.6
     },
     {
-      "date": "07-20 02:23",
+      "date": "07-20 02:26",
       "equity": 30290.3
     },
     {
-      "date": "07-20 02:37",
-      "equity": 30293.0
-    },
-    {
-      "date": "07-20 03:30",
+      "date": "07-20 02:48",
       "equity": 30293.0
     },
     {
       "date": "07-20 03:37",
-      "equity": 30304.3
+      "equity": 30306.2
     },
     {
       "date": "07-20 04:15",
       "equity": 30306.7
     },
     {
-      "date": "07-20 05:04",
-      "equity": 30306.7
+      "date": "07-20 05:10",
+      "equity": 30440.8
     },
     {
       "date": "07-20 05:10",
-      "equity": 30414.1
-    },
-    {
-      "date": "07-20 05:31",
       "equity": 30387.2
     },
     {
-      "date": "07-20 06:27",
-      "equity": 30394.8
+      "date": "07-20 06:23",
+      "equity": 30387.2
     },
     {
       "date": "07-20 07:16",
@@ -119,18 +103,14 @@
     },
     {
       "date": "07-20 07:33",
-      "equity": 30350.0
+      "equity": 30307.7
     },
     {
       "date": "07-20 07:33",
-      "equity": 30200.6
+      "equity": 30431.0
     },
     {
-      "date": "07-20 07:33",
-      "equity": 30925.0
-    },
-    {
-      "date": "07-20 08:05",
+      "date": "07-20 08:03",
       "equity": 30925.0
     },
     {
@@ -138,99 +118,79 @@
       "equity": 30932.2
     },
     {
-      "date": "07-20 08:30",
+      "date": "07-20 08:38",
       "equity": 30954.0
     },
     {
-      "date": "07-20 08:51",
+      "date": "07-20 09:26",
       "equity": 30956.6
     },
     {
-      "date": "07-20 09:32",
-      "equity": 30958.6
-    },
-    {
       "date": "07-20 09:41",
-      "equity": 30979.2
+      "equity": 30982.5
     },
     {
       "date": "07-20 11:25",
       "equity": 30985.8
     },
     {
-      "date": "07-20 11:31",
+      "date": "07-20 11:47",
       "equity": 30999.2
     },
     {
-      "date": "07-20 12:43",
+      "date": "07-20 12:45",
       "equity": 31001.7
     },
     {
-      "date": "07-20 12:46",
-      "equity": 31007.8
-    },
-    {
-      "date": "07-20 12:54",
-      "equity": 31010.1
+      "date": "07-20 12:49",
+      "equity": 31007.6
     },
     {
       "date": "07-20 13:10",
       "equity": 31020.7
     },
     {
-      "date": "07-20 13:15",
-      "equity": 31027.3
+      "date": "07-20 13:20",
+      "equity": 31049.8
     },
     {
-      "date": "07-20 13:20",
+      "date": "07-20 13:30",
       "equity": 31052.0
     },
     {
-      "date": "07-20 13:32",
-      "equity": 31054.3
-    },
-    {
-      "date": "07-20 13:48",
-      "equity": 31066.8
+      "date": "07-20 13:41",
+      "equity": 31056.2
     },
     {
       "date": "07-20 13:49",
       "equity": 31068.1
     },
     {
-      "date": "07-20 14:30",
+      "date": "07-20 14:55",
       "equity": 31077.4
     },
     {
-      "date": "07-20 15:09",
+      "date": "07-20 15:26",
       "equity": 31081.9
     },
     {
-      "date": "07-20 15:38",
-      "equity": 31088.3
-    },
-    {
       "date": "07-20 15:51",
-      "equity": 31094.6
+      "equity": 31095.0
     },
     {
       "date": "07-20 16:08",
       "equity": 31094.6
     },
     {
-      "date": "07-20 16:15",
-      "equity": 31106.3
-    },
-    {
-      "date": "07-20 16:51",
+      "date": "07-20 16:32",
       "equity": 31106.3
     },
     {
       "date": "07-20 17:00",
-      "equity": 31150.8
+      "equity": 31156.9
     },
     {
-      "date": "07-20 17:19",
+      "date": "07-20 17:04",
       "equity": 31144.9
     },
     {
@@ -238,19 +198,15 @@
       "equity": 31158.2
     },
     {
-      "date": "07-20 17:51",
-      "equity": 31161.3
-    },
-    {
       "date": "07-20 18:11",
+      "equity": 31189.9
+    },
+    {
+      "date": "07-20 18:25",
       "equity": 31193.1
     },
     {
-      "date": "07-20 18:50",
-      "equity": 31193.1
-    },
-    {
-      "date": "07-20 19:29",
+      "date": "07-20 19:23",
       "equity": 31203.6
     },
     {
@@ -258,20 +214,16 @@
       "equity": 31255.2
     },
     {
-      "date": "07-20 19:44",
-      "equity": 31273.2
-    },
-    {
-      "date": "07-20 22:10",
+      "date": "07-20 19:45",
       "equity": 31273.2
     },
     {
       "date": "07-20 22:21",
-      "equity": 31281.9
+      "equity": 31281.4
     },
     {
       "date": "07-20 22:25",
-      "equity": 31302.1
+      "equity": 31304.8
     },
     {
       "date": "07-20 22:39",
@@ -279,18 +231,14 @@
     },
     {
       "date": "07-20 22:42",
-      "equity": 31309.9
+      "equity": 31312.7
     },
     {
       "date": "07-20 23:07",
-      "equity": 31391.7
+      "equity": 31419.1
     },
     {
-      "date": "07-20 23:07",
-      "equity": 31417.2
-    },
-    {
-      "date": "07-20 23:45",
+      "date": "07-20 23:43",
       "equity": 31418.7
     },
     {
@@ -298,19 +246,15 @@
       "equity": 31423.6
     },
     {
-      "date": "07-21 00:18",
+      "date": "07-21 00:22",
       "equity": 31425.3
     },
     {
-      "date": "07-21 00:59",
+      "date": "07-21 01:53",
       "equity": 31425.3
     },
     {
-      "date": "07-21 02:22",
-      "equity": 31430.0
-    },
-    {
-      "date": "07-21 02:41",
+      "date": "07-21 02:29",
       "equity": 31430.5
     },
     {
@@ -319,19 +263,15 @@
     },
     {
       "date": "07-21 03:26",
-      "equity": 31003.7
+      "equity": 28528.7
     },
     {
       "date": "07-21 03:26",
-      "equity": 28923.8
-    },
-    {
-      "date": "07-21 03:50",
       "equity": 27818.5
     },
     {
-      "date": "07-21 04:20",
-      "equity": 27827.0
+      "date": "07-21 04:05",
+      "equity": 27820.5
     },
     {
       "date": "07-21 05:00",
@@ -342,35 +282,27 @@
       "equity": 27830.3
     },
     {
-      "date": "07-21 06:43",
-      "equity": 27830.3
+      "date": "07-21 07:11",
+      "equity": 27813.2
     },
     {
       "date": "07-21 07:11",
-      "equity": 27782.9
-    },
-    {
-      "date": "07-21 07:11",
-      "equity": 27940.3
+      "equity": 27956.5
     },
     {
       "date": "07-21 07:58",
       "equity": 27940.3
     },
     {
-      "date": "07-21 08:25",
-      "equity": 27942.8
-    },
-    {
-      "date": "07-21 09:03",
+      "date": "07-21 08:34",
       "equity": 27942.8
     },
     {
       "date": "07-21 09:23",
-      "equity": 28052.8
+      "equity": 28056.6
     },
     {
-      "date": "07-21 09:24",
+      "date": "07-21 09:23",
       "equity": 28026.0
     },
     {
@@ -378,19 +310,15 @@
       "equity": 28041.5
     },
     {
-      "date": "07-21 10:10",
+      "date": "07-21 10:19",
       "equity": 28044.6
     },
     {
-      "date": "07-21 10:48",
+      "date": "07-21 11:02",
       "equity": 28047.3
     },
     {
-      "date": "07-21 11:09",
-      "equity": 28047.3
-    },
-    {
-      "date": "07-21 12:00",
+      "date": "07-21 11:58",
       "equity": 28048.9
     },
     {
@@ -403,54 +331,42 @@
     },
     {
       "date": "07-21 12:36",
-      "equity": 28185.7
-    },
-    {
-      "date": "07-21 12:50",
       "equity": 28183.9
     },
     {
-      "date": "07-21 13:01",
-      "equity": 28194.6
+      "date": "07-21 13:00",
+      "equity": 28183.9
     },
     {
       "date": "07-21 13:04",
       "equity": 28194.4
     },
     {
-      "date": "07-21 13:21",
+      "date": "07-21 13:24",
       "equity": 28205.8
     },
     {
-      "date": "07-21 13:37",
-      "equity": 28207.6
+      "date": "07-21 13:42",
+      "equity": 28209.1
     },
     {
-      "date": "07-21 13:59",
-      "equity": 28224.0
-    },
-    {
-      "date": "07-21 14:25",
-      "equity": 28221.6
+      "date": "07-21 14:20",
+      "equity": 28217.7
     },
     {
       "date": "07-21 14:38",
       "equity": 28223.7
     },
     {
-      "date": "07-21 14:48",
+      "date": "07-21 14:56",
       "equity": 28240.3
     },
     {
-      "date": "07-21 15:46",
+      "date": "07-21 16:27",
       "equity": 28244.0
     },
     {
-      "date": "07-21 16:37",
-      "equity": 28247.3
-    },
-    {
-      "date": "07-21 17:05",
+      "date": "07-21 17:01",
       "equity": 28247.3
     },
     {
@@ -458,19 +374,15 @@
       "equity": 28252.4
     },
     {
-      "date": "07-21 18:13",
+      "date": "07-21 18:17",
       "equity": 28252.4
     },
     {
       "date": "07-21 18:20",
-      "equity": 28330.9
+      "equity": 28320.9
     },
     {
-      "date": "07-21 18:22",
-      "equity": 28315.6
-    },
-    {
-      "date": "07-21 19:10",
+      "date": "07-21 19:00",
       "equity": 28315.6
     },
     {
@@ -478,60 +390,48 @@
       "equity": 28321.5
     },
     {
-      "date": "07-21 20:55",
-      "equity": 28321.5
+      "date": "07-21 22:24",
+      "equity": 28315.2
     },
     {
       "date": "07-21 22:24",
-      "equity": 28324.9
-    },
-    {
-      "date": "07-21 23:34",
       "equity": 28367.8
     },
     {
       "date": "07-22 00:04",
-      "equity": 28366.9
+      "equity": 28366.8
     },
     {
       "date": "07-22 00:07",
       "equity": 28387.6
     },
     {
-      "date": "07-22 00:40",
-      "equity": 28387.6
+      "date": "07-22 00:49",
+      "equity": 28397.8
     },
     {
       "date": "07-22 01:00",
-      "equity": 26850.0
+      "equity": 25762.8
     },
     {
       "date": "07-22 01:00",
-      "equity": 25074.1
-    },
-    {
-      "date": "07-22 01:00",
-      "equity": 24660.4
+      "equity": 24700.5
     },
     {
       "date": "07-22 01:39",
       "equity": 24663.3
     },
     {
-      "date": "07-22 02:17",
+      "date": "07-22 02:27",
       "equity": 24665.3
     },
     {
-      "date": "07-22 02:56",
-      "equity": 24665.3
+      "date": "07-22 03:00",
+      "equity": 24671.6
     },
     {
       "date": "07-22 04:04",
-      "equity": 24886.2
-    },
-    {
-      "date": "07-22 04:04",
-      "equity": 24802.2
+      "equity": 24826.3
     },
     {
       "date": "07-22 05:16",
@@ -539,18 +439,14 @@
     },
     {
       "date": "07-22 05:31",
-      "equity": 24770.0
-    },
-    {
-      "date": "07-22 05:38",
-      "equity": 24773.5
+      "equity": 24769.2
     },
     {
       "date": "07-22 06:24",
-      "equity": 24772.9
+      "equity": 24826.8
     },
     {
-      "date": "07-22 06:37",
+      "date": "07-22 06:36",
       "equity": 24837.6
     },
     {
@@ -558,20 +454,16 @@
       "equity": 24845.0
     },
     {
-      "date": "07-22 07:41",
+      "date": "07-22 07:55",
       "equity": 24852.3
     },
     {
-      "date": "07-22 08:06",
-      "equity": 24857.6
-    },
-    {
-      "date": "07-22 08:56",
-      "equity": 24860.7
+      "date": "07-22 08:49",
+      "equity": 24859.1
     },
     {
       "date": "07-22 09:30",
-      "equity": 24865.3
+      "equity": 24864.8
     },
     {
       "date": "07-22 10:51",
@@ -579,38 +471,30 @@
     },
     {
       "date": "07-22 11:02",
-      "equity": 24872.1
+      "equity": 24873.0
     },
     {
-      "date": "07-22 11:12",
+      "date": "07-22 11:16",
       "equity": 24883.0
     },
     {
-      "date": "07-22 11:18",
-      "equity": 24890.8
-    },
-    {
       "date": "07-22 11:40",
-      "equity": 24895.8
+      "equity": 24895.0
     },
     {
       "date": "07-22 12:38",
       "equity": 24900.8
     },
     {
-      "date": "07-22 14:09",
-      "equity": 24905.0
+      "date": "07-22 14:15",
+      "equity": 24916.1
     },
     {
-      "date": "07-22 14:41",
-      "equity": 24918.1
+      "date": "07-22 14:44",
+      "equity": 24923.1
     },
     {
-      "date": "07-22 14:55",
-      "equity": 24925.9
-    },
-    {
-      "date": "07-22 15:20",
+      "date": "07-22 15:18",
       "equity": 24927.5
     },
     {
@@ -619,38 +503,30 @@
     },
     {
       "date": "07-22 15:57",
-      "equity": 24975.0
+      "equity": 24985.1
     },
     {
-      "date": "07-22 15:57",
+      "date": "07-22 16:43",
       "equity": 24970.0
     },
     {
-      "date": "07-22 16:50",
-      "equity": 24970.0
-    },
-    {
-      "date": "07-22 17:40",
-      "equity": 24974.8
+      "date": "07-22 17:37",
+      "equity": 24972.0
     },
     {
       "date": "07-22 18:06",
       "equity": 24974.8
     },
     {
-      "date": "07-22 18:59",
-      "equity": 24979.4
+      "date": "07-22 19:02",
+      "equity": 24981.0
     },
     {
-      "date": "07-22 19:22",
-      "equity": 24982.5
+      "date": "07-22 19:54",
+      "equity": 24985.5
     },
     {
-      "date": "07-22 20:42",
-      "equity": 24988.5
-    },
-    {
-      "date": "07-22 22:37",
+      "date": "07-22 22:35",
       "equity": 24988.5
     },
     {
@@ -659,38 +535,30 @@
     },
     {
       "date": "07-22 23:57",
-      "equity": 25666.9
+      "equity": 24912.3
     },
     {
       "date": "07-22 23:57",
-      "equity": 25430.1
-    },
-    {
-      "date": "07-22 23:57",
-      "equity": 25277.0
+      "equity": 24614.9
     },
     {
       "date": "07-23 00:51",
-      "equity": 25262.4
+      "equity": 25303.4
     },
     {
       "date": "07-23 01:00",
       "equity": 25297.4
     },
     {
-      "date": "07-23 01:13",
+      "date": "07-23 01:15",
       "equity": 25297.4
     },
     {
-      "date": "07-23 01:21",
-      "equity": 25301.8
-    },
-    {
       "date": "07-23 01:30",
-      "equity": 25326.9
+      "equity": 25330.4
     },
     {
-      "date": "07-23 02:23",
+      "date": "07-23 02:14",
       "equity": 25331.4
     },
     {
@@ -698,19 +566,15 @@
       "equity": 25340.4
     },
     {
-      "date": "07-23 03:22",
+      "date": "07-23 03:37",
       "equity": 25347.8
     },
     {
-      "date": "07-23 04:15",
-      "equity": 25351.6
-    },
-    {
-      "date": "07-23 05:22",
+      "date": "07-23 04:45",
       "equity": 25354.5
     },
     {
-      "date": "07-23 05:52",
+      "date": "07-23 05:51",
       "equity": 25363.0
     },
     {
@@ -718,19 +582,15 @@
       "equity": 25373.0
     },
     {
-      "date": "07-23 06:20",
+      "date": "07-23 06:26",
       "equity": 25383.4
     },
     {
-      "date": "07-23 06:52",
-      "equity": 25388.1
-    },
-    {
-      "date": "07-23 07:06",
+      "date": "07-23 07:02",
       "equity": 25391.0
     },
     {
-      "date": "07-23 07:35",
+      "date": "07-23 07:33",
       "equity": 25391.0
     },
     {
@@ -738,20 +598,16 @@
       "equity": 25399.7
     },
     {
-      "date": "07-23 08:42",
+      "date": "07-23 09:22",
       "equity": 25405.7
     },
     {
-      "date": "07-23 10:00",
-      "equity": 25409.1
-    },
-    {
-      "date": "07-23 10:25",
+      "date": "07-23 10:21",
       "equity": 25418.3
     },
     {
-      "date": "07-23 11:07",
-      "equity": 25441.3
+      "date": "07-23 10:55",
+      "equity": 25418.3
     },
     {
       "date": "07-23 11:27",
@@ -759,38 +615,30 @@
     },
     {
       "date": "07-23 12:24",
-      "equity": 25397.4
+      "equity": 24352.2
     },
     {
       "date": "07-23 12:24",
-      "equity": 24556.5
-    },
-    {
-      "date": "07-23 12:24",
-      "equity": 22229.4
+      "equity": 21895.5
     },
     {
       "date": "07-23 13:20",
-      "equity": 21392.2
+      "equity": 21390.1
     },
     {
       "date": "07-23 14:25",
       "equity": 21395.8
     },
     {
-      "date": "07-23 15:18",
+      "date": "07-23 15:25",
       "equity": 21399.6
     },
     {
-      "date": "07-23 15:33",
-      "equity": 21401.2
-    },
-    {
       "date": "07-23 15:41",
-      "equity": 21432.1
+      "equity": 21395.6
     },
     {
-      "date": "07-23 16:38",
+      "date": "07-23 16:23",
       "equity": 21432.1
     },
     {
@@ -798,19 +646,15 @@
       "equity": 21436.9
     },
     {
-      "date": "07-23 17:09",
+      "date": "07-23 18:28",
       "equity": 21470.6
     },
     {
-      "date": "07-23 19:00",
-      "equity": 21473.5
-    },
-    {
       "date": "07-23 19:10",
-      "equity": 21493.9
+      "equity": 21486.7
     },
     {
-      "date": "07-23 19:50",
+      "date": "07-23 19:45",
       "equity": 21496.0
     },
     {
@@ -819,38 +663,30 @@
     },
     {
       "date": "07-24 00:05",
-      "equity": 21516.4
-    },
-    {
-      "date": "07-24 00:16",
       "equity": 21514.8
     },
     {
       "date": "07-24 00:23",
-      "equity": 21507.6
+      "equity": 21583.9
     },
     {
       "date": "07-24 01:02",
-      "equity": 21578.8
+      "equity": 21576.7
     },
     {
       "date": "07-24 01:58",
       "equity": 21585.6
     },
     {
-      "date": "07-24 02:43",
-      "equity": 21585.6
-    },
-    {
-      "date": "07-24 02:59",
+      "date": "07-24 02:46",
       "equity": 21587.5
     },
     {
       "date": "07-24 03:15",
-      "equity": 21673.9
+      "equity": 21551.4
     },
     {
-      "date": "07-24 03:35",
+      "date": "07-24 03:24",
       "equity": 21637.8
     },
     {
@@ -858,59 +694,47 @@
       "equity": 21643.7
     },
     {
-      "date": "07-24 04:51",
+      "date": "07-24 05:09",
       "equity": 21643.7
     },
     {
       "date": "07-24 05:11",
-      "equity": 21704.8
+      "equity": 21713.4
     },
     {
-      "date": "07-24 05:16",
-      "equity": 21721.3
-    },
-    {
-      "date": "07-24 05:19",
-      "equity": 21728.8
+      "date": "07-24 05:17",
+      "equity": 21726.1
     },
     {
       "date": "07-24 05:31",
       "equity": 21734.1
     },
     {
-      "date": "07-24 06:10",
+      "date": "07-24 06:44",
       "equity": 21737.9
     },
     {
-      "date": "07-24 06:51",
-      "equity": 21746.0
+      "date": "07-24 07:02",
+      "equity": 21748.0
     },
     {
-      "date": "07-24 07:43",
+      "date": "07-24 08:07",
       "equity": 21749.8
-    },
-    {
-      "date": "07-24 08:27",
-      "equity": 21754.8
     },
     {
       "date": "07-24 08:31",
       "equity": 21754.6
     },
     {
-      "date": "07-24 08:54",
+      "date": "07-24 09:01",
       "equity": 21760.0
     },
     {
       "date": "07-24 09:30",
-      "equity": 21756.8
+      "equity": 21813.6
     },
     {
-      "date": "07-24 10:00",
-      "equity": 21817.2
-    },
-    {
-      "date": "07-24 11:00",
+      "date": "07-24 10:59",
       "equity": 21818.8
     },
     {
@@ -918,20 +742,16 @@
       "equity": 21829.5
     },
     {
-      "date": "07-24 12:42",
+      "date": "07-24 12:46",
       "equity": 21834.9
     },
     {
-      "date": "07-24 13:00",
-      "equity": 21843.7
+      "date": "07-24 13:07",
+      "equity": 21845.3
     },
     {
-      "date": "07-24 13:37",
-      "equity": 21847.2
-    },
-    {
-      "date": "07-24 14:25",
-      "equity": 21851.6
+      "date": "07-24 14:23",
+      "equity": 21849.3
     },
     {
       "date": "07-24 15:00",
@@ -942,35 +762,27 @@
       "equity": 21859.7
     },
     {
-      "date": "07-24 15:15",
+      "date": "07-24 15:41",
       "equity": 21861.7
     },
     {
       "date": "07-24 15:47",
-      "equity": 21851.9
-    },
-    {
-      "date": "07-24 15:47",
-      "equity": 21898.4
+      "equity": 21908.2
     },
     {
       "date": "07-24 15:55",
       "equity": 21910.6
     },
     {
-      "date": "07-24 16:28",
-      "equity": 21910.6
+      "date": "07-24 16:30",
+      "equity": 21919.1
     },
     {
-      "date": "07-24 16:33",
-      "equity": 21921.4
+      "date": "07-24 16:37",
+      "equity": 21927.1
     },
     {
-      "date": "07-24 16:41",
-      "equity": 21927.9
-    },
-    {
-      "date": "07-24 17:30",
+      "date": "07-24 17:24",
       "equity": 21927.9
     },
     {
@@ -978,60 +790,52 @@
       "equity": 21945.1
     },
     {
-      "date": "07-24 18:43",
+      "date": "07-24 18:47",
       "equity": 21945.1
     },
     {
-      "date": "07-24 19:20",
-      "equity": 21956.3
+      "date": "07-24 20:35",
+      "equity": 21957.9
     },
     {
       "date": "07-24 20:50",
-      "equity": 22157.0
-    },
-    {
-      "date": "07-24 20:50",
-      "equity": 21734.0
+      "equity": 21819.4
     },
     {
       "date": "07-24 20:50",
       "equity": 21552.5
     },
     {
-      "date": "07-26 23:45",
+      "date": "07-27 00:19",
       "equity": 21557.7
     },
     {
-      "date": "07-27 00:39",
-      "equity": 21561.4
-    },
-    {
-      "date": "07-27 01:07",
+      "date": "07-27 00:59",
       "equity": 21563.0
     },
     {
       "date": "07-27 01:25",
-      "equity": 21565.6
+      "equity": 21563.0
     },
     {
       "date": "07-27 01:47",
       "equity": 21596.2
     },
     {
-      "date": "07-27 04:00",
+      "date": "07-27 04:10",
       "equity": 21599.5
     },
     {
-      "date": "07-27 04:39",
-      "equity": 21602.9
-    },
-    {
-      "date": "07-27 05:11",
+      "date": "07-27 05:04",
       "equity": 21602.9
     },
     {
       "date": "07-27 05:25",
-      "equity": 21602.9
+      "equity": 21610.8
+    },
+    {
+      "date": "07-27 05:29",
+      "equity": 21662.9
     }
   ],
   "hourly_distribution": [
@@ -1062,7 +866,7 @@
     },
     {
       "hour": "05",
-      "win": 20,
+      "win": 24,
       "loss": 6
     },
     {
@@ -1214,735 +1018,13 @@
       "gross_loss": 0.0
     },
     "2026-07-27": {
-      "profit": 45.2,
-      "pct": 0.15,
-      "trades": 12,
-      "wins": 10,
-      "gross_win": 53.4,
+      "profit": 105.2,
+      "pct": 0.35,
+      "trades": 16,
+      "wins": 14,
+      "gross_win": 113.4,
       "gross_loss": 8.2
     }
   },
-  "withdrawals": [],
-  "market_events": [
-    {
-      "title": "SPPI y/y",
-      "country": "JPY",
-      "date": "2026-07-26T19:50:00-04:00",
-      "impact": "Low",
-      "forecast": "3.4%",
-      "previous": "3.3%"
-    },
-    {
-      "title": "German ifo Business Climate",
-      "country": "EUR",
-      "date": "2026-07-27T04:00:00-04:00",
-      "impact": "Low",
-      "forecast": "86.1",
-      "previous": "85.6"
-    },
-    {
-      "title": "M3 Money Supply y/y",
-      "country": "EUR",
-      "date": "2026-07-27T04:00:00-04:00",
-      "impact": "Low",
-      "forecast": "3.2%",
-      "previous": "3.2%"
-    },
-    {
-      "title": "Private Loans y/y",
-      "country": "EUR",
-      "date": "2026-07-27T04:00:00-04:00",
-      "impact": "Low",
-      "forecast": "3.1%",
-      "previous": "3.1%"
-    },
-    {
-      "title": "ECOFIN Meetings",
-      "country": "EUR",
-      "date": "2026-07-27T05:15:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "CBI Realized Sales",
-      "country": "GBP",
-      "date": "2026-07-27T06:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-45",
-      "previous": "-54"
-    },
-    {
-      "title": "Core Durable Goods Orders m/m",
-      "country": "USD",
-      "date": "2026-07-27T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.9%",
-      "previous": "1.3%"
-    },
-    {
-      "title": "Durable Goods Orders m/m",
-      "country": "USD",
-      "date": "2026-07-27T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "1.6%",
-      "previous": "-4.5%"
-    },
-    {
-      "title": "BRC Shop Price Index y/y",
-      "country": "GBP",
-      "date": "2026-07-27T19:01:00-04:00",
-      "impact": "Low",
-      "forecast": "1.2%",
-      "previous": "1.2%"
-    },
-    {
-      "title": "RBA Gov Bullock Speaks",
-      "country": "AUD",
-      "date": "2026-07-27T23:05:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "BOJ Core CPI y/y",
-      "country": "JPY",
-      "date": "2026-07-28T01:00:00-04:00",
-      "impact": "Low",
-      "forecast": "1.4%",
-      "previous": "1.4%"
-    },
-    {
-      "title": "Spanish Unemployment Rate",
-      "country": "EUR",
-      "date": "2026-07-28T03:00:00-04:00",
-      "impact": "Low",
-      "forecast": "10.7%",
-      "previous": "10.8%"
-    },
-    {
-      "title": "German Buba Monthly Report",
-      "country": "EUR",
-      "date": "2026-07-28T06:03:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "ADP Weekly Employment Change",
-      "country": "USD",
-      "date": "2026-07-28T08:15:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "16.5K"
-    },
-    {
-      "title": "Goods Trade Balance",
-      "country": "USD",
-      "date": "2026-07-28T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "-98.0B",
-      "previous": "-105.8B"
-    },
-    {
-      "title": "Prelim Wholesale Inventories m/m",
-      "country": "USD",
-      "date": "2026-07-28T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.2%",
-      "previous": "0.3%"
-    },
-    {
-      "title": "HPI m/m",
-      "country": "USD",
-      "date": "2026-07-28T09:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.2%",
-      "previous": "-0.1%"
-    },
-    {
-      "title": "S&P/CS Composite-20 HPI y/y",
-      "country": "USD",
-      "date": "2026-07-28T09:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.8%",
-      "previous": "1.1%"
-    },
-    {
-      "title": "CB Consumer Confidence",
-      "country": "USD",
-      "date": "2026-07-28T10:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "92.1",
-      "previous": "91.2"
-    },
-    {
-      "title": "Richmond Manufacturing Index",
-      "country": "USD",
-      "date": "2026-07-28T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4"
-    },
-    {
-      "title": "API Weekly Statistical Bulletin",
-      "country": "USD",
-      "date": "2026-07-28T16:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "CPI m/m",
-      "country": "AUD",
-      "date": "2026-07-28T21:30:00-04:00",
-      "impact": "High",
-      "forecast": "0.2%",
-      "previous": "-0.7%"
-    },
-    {
-      "title": "CPI y/y",
-      "country": "AUD",
-      "date": "2026-07-28T21:30:00-04:00",
-      "impact": "High",
-      "forecast": "4.0%",
-      "previous": "4.0%"
-    },
-    {
-      "title": "Trimmed Mean CPI m/m",
-      "country": "AUD",
-      "date": "2026-07-28T21:30:00-04:00",
-      "impact": "High",
-      "forecast": "0.4%",
-      "previous": "0.4%"
-    },
-    {
-      "title": "German Import Prices m/m",
-      "country": "EUR",
-      "date": "2026-07-29T02:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-0.8%",
-      "previous": "0.7%"
-    },
-    {
-      "title": "UBS Economic Expectations",
-      "country": "CHF",
-      "date": "2026-07-29T04:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-25.0"
-    },
-    {
-      "title": "M4 Money Supply m/m",
-      "country": "GBP",
-      "date": "2026-07-29T04:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.2%",
-      "previous": "0.1%"
-    },
-    {
-      "title": "Mortgage Approvals",
-      "country": "GBP",
-      "date": "2026-07-29T04:30:00-04:00",
-      "impact": "Low",
-      "forecast": "56K",
-      "previous": "56K"
-    },
-    {
-      "title": "Net Lending to Individuals m/m",
-      "country": "GBP",
-      "date": "2026-07-29T04:30:00-04:00",
-      "impact": "Low",
-      "forecast": "5.5B",
-      "previous": "4.6B"
-    },
-    {
-      "title": "German 10-y Bond Auction",
-      "country": "EUR",
-      "date": "2026-07-29T05:42:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.09|1.0"
-    },
-    {
-      "title": "Crude Oil Inventories",
-      "country": "USD",
-      "date": "2026-07-29T10:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "2.0M"
-    },
-    {
-      "title": "BOC Summary of Deliberations",
-      "country": "CAD",
-      "date": "2026-07-29T13:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Federal Funds Rate",
-      "country": "USD",
-      "date": "2026-07-29T14:00:00-04:00",
-      "impact": "High",
-      "forecast": "3.75%",
-      "previous": "3.75%"
-    },
-    {
-      "title": "FOMC Statement",
-      "country": "USD",
-      "date": "2026-07-29T14:00:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Press Conference",
-      "country": "USD",
-      "date": "2026-07-29T14:30:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "RBA Assist Gov Hunter Speaks",
-      "country": "AUD",
-      "date": "2026-07-29T18:40:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "ANZ Business Confidence",
-      "country": "NZD",
-      "date": "2026-07-29T21:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "36.6"
-    },
-    {
-      "title": "Building Approvals m/m",
-      "country": "AUD",
-      "date": "2026-07-29T21:30:00-04:00",
-      "impact": "Low",
-      "forecast": "-0.5%",
-      "previous": "-1.1%"
-    },
-    {
-      "title": "Import Prices q/q",
-      "country": "AUD",
-      "date": "2026-07-29T21:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.0%",
-      "previous": "0.1%"
-    },
-    {
-      "title": "Consumer Confidence",
-      "country": "JPY",
-      "date": "2026-07-30T01:00:00-04:00",
-      "impact": "Low",
-      "forecast": "34.2",
-      "previous": "33.8"
-    },
-    {
-      "title": "French Consumer Spending m/m",
-      "country": "EUR",
-      "date": "2026-07-30T01:30:00-04:00",
-      "impact": "Low",
-      "forecast": "-0.1%",
-      "previous": "0.5%"
-    },
-    {
-      "title": "French Flash GDP q/q",
-      "country": "EUR",
-      "date": "2026-07-30T01:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.2%",
-      "previous": "-0.1%"
-    },
-    {
-      "title": "German Prelim CPI m/m",
-      "country": "EUR",
-      "date": "2026-07-30T02:29:00-04:00",
-      "impact": "Medium",
-      "forecast": "0.7%",
-      "previous": "-0.3%"
-    },
-    {
-      "title": "French Prelim Private Payrolls q/q",
-      "country": "EUR",
-      "date": "2026-07-30T02:45:00-04:00",
-      "impact": "Low",
-      "forecast": "-0.1%",
-      "previous": "-0.1%"
-    },
-    {
-      "title": "KOF Economic Barometer",
-      "country": "CHF",
-      "date": "2026-07-30T03:00:00-04:00",
-      "impact": "Low",
-      "forecast": "100.7",
-      "previous": "101.2"
-    },
-    {
-      "title": "Spanish Flash CPI y/y",
-      "country": "EUR",
-      "date": "2026-07-30T03:00:00-04:00",
-      "impact": "Low",
-      "forecast": "3.1%",
-      "previous": "3.2%"
-    },
-    {
-      "title": "Spanish Flash GDP q/q",
-      "country": "EUR",
-      "date": "2026-07-30T03:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "0.6%"
-    },
-    {
-      "title": "German Prelim GDP q/q",
-      "country": "EUR",
-      "date": "2026-07-30T04:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "0.1%",
-      "previous": "0.3%"
-    },
-    {
-      "title": "Italian Prelim GDP q/q",
-      "country": "EUR",
-      "date": "2026-07-30T04:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.2%"
-    },
-    {
-      "title": "Italian Monthly Unemployment Rate",
-      "country": "EUR",
-      "date": "2026-07-30T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "5.1%",
-      "previous": "5.0%"
-    },
-    {
-      "title": "Prelim Flash GDP q/q",
-      "country": "EUR",
-      "date": "2026-07-30T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.2%",
-      "previous": "0.1%"
-    },
-    {
-      "title": "Unemployment Rate",
-      "country": "EUR",
-      "date": "2026-07-30T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "6.2%",
-      "previous": "6.2%"
-    },
-    {
-      "title": "Italian 10-y Bond Auction",
-      "country": "EUR",
-      "date": "2026-07-30T05:33:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "BOE Monetary Policy Report",
-      "country": "GBP",
-      "date": "2026-07-30T07:00:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Monetary Policy Summary",
-      "country": "GBP",
-      "date": "2026-07-30T07:00:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "MPC Official Bank Rate Votes",
-      "country": "GBP",
-      "date": "2026-07-30T07:00:00-04:00",
-      "impact": "High",
-      "forecast": "2-0-7",
-      "previous": "2-0-7"
-    },
-    {
-      "title": "Official Bank Rate",
-      "country": "GBP",
-      "date": "2026-07-30T07:00:00-04:00",
-      "impact": "High",
-      "forecast": "3.75%",
-      "previous": "3.75%"
-    },
-    {
-      "title": "Advance GDP q/q",
-      "country": "USD",
-      "date": "2026-07-30T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "2.3%",
-      "previous": "2.0%"
-    },
-    {
-      "title": "Core PCE Price Index m/m",
-      "country": "USD",
-      "date": "2026-07-30T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "0.1%",
-      "previous": "0.3%"
-    },
-    {
-      "title": "Advance GDP Price Index q/q",
-      "country": "USD",
-      "date": "2026-07-30T08:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "3.7%",
-      "previous": "3.6%"
-    },
-    {
-      "title": "Unemployment Claims",
-      "country": "USD",
-      "date": "2026-07-30T08:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "206K",
-      "previous": "187K"
-    },
-    {
-      "title": "Personal Income m/m",
-      "country": "USD",
-      "date": "2026-07-30T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "0.7%"
-    },
-    {
-      "title": "Personal Spending m/m",
-      "country": "USD",
-      "date": "2026-07-30T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.4%",
-      "previous": "0.7%"
-    },
-    {
-      "title": "Natural Gas Storage",
-      "country": "USD",
-      "date": "2026-07-30T10:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "32B"
-    },
-    {
-      "title": "Tokyo Core CPI y/y",
-      "country": "JPY",
-      "date": "2026-07-30T19:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "1.8%",
-      "previous": "1.6%"
-    },
-    {
-      "title": "Unemployment Rate",
-      "country": "JPY",
-      "date": "2026-07-30T19:30:00-04:00",
-      "impact": "Low",
-      "forecast": "2.5%",
-      "previous": "2.5%"
-    },
-    {
-      "title": "Prelim Industrial Production m/m",
-      "country": "JPY",
-      "date": "2026-07-30T19:50:00-04:00",
-      "impact": "Low",
-      "forecast": "0.7%",
-      "previous": "0.5%"
-    },
-    {
-      "title": "Retail Sales y/y",
-      "country": "JPY",
-      "date": "2026-07-30T19:50:00-04:00",
-      "impact": "Low",
-      "forecast": "2.8%",
-      "previous": "5.3%"
-    },
-    {
-      "title": "PPI q/q",
-      "country": "AUD",
-      "date": "2026-07-30T21:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "0.4%"
-    },
-    {
-      "title": "Private Sector Credit m/m",
-      "country": "AUD",
-      "date": "2026-07-30T21:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "0.7%"
-    },
-    {
-      "title": "Manufacturing PMI",
-      "country": "CNY",
-      "date": "2026-07-30T21:30:00-04:00",
-      "impact": "Low",
-      "forecast": "49.9",
-      "previous": "50.3"
-    },
-    {
-      "title": "Non-Manufacturing PMI",
-      "country": "CNY",
-      "date": "2026-07-30T21:30:00-04:00",
-      "impact": "Low",
-      "forecast": "50.0",
-      "previous": "50.2"
-    },
-    {
-      "title": "BOJ Policy Rate",
-      "country": "JPY",
-      "date": "2026-07-30T22:30:00-04:00",
-      "impact": "High",
-      "forecast": "<1.00%",
-      "previous": "<1.00%"
-    },
-    {
-      "title": "Monetary Policy Statement",
-      "country": "JPY",
-      "date": "2026-07-30T22:30:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "BOJ Outlook Report",
-      "country": "JPY",
-      "date": "2026-07-30T22:31:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Housing Starts y/y",
-      "country": "JPY",
-      "date": "2026-07-31T01:00:00-04:00",
-      "impact": "Low",
-      "forecast": "13.2%",
-      "previous": "33.9%"
-    },
-    {
-      "title": "BOJ Press Conference",
-      "country": "JPY",
-      "date": "2026-07-31T01:30:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Nationwide HPI m/m",
-      "country": "GBP",
-      "date": "2026-07-31T02:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.0%"
-    },
-    {
-      "title": "Retail Sales y/y",
-      "country": "CHF",
-      "date": "2026-07-31T02:30:00-04:00",
-      "impact": "Low",
-      "forecast": "3.2%",
-      "previous": "3.5%"
-    },
-    {
-      "title": "French Prelim CPI m/m",
-      "country": "EUR",
-      "date": "2026-07-31T02:45:00-04:00",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "-0.2%"
-    },
-    {
-      "title": "German Unemployment Change",
-      "country": "EUR",
-      "date": "2026-07-31T03:55:00-04:00",
-      "impact": "Low",
-      "forecast": "5K",
-      "previous": "-1K"
-    },
-    {
-      "title": "Core CPI Flash Estimate y/y",
-      "country": "EUR",
-      "date": "2026-07-31T05:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "2.4%",
-      "previous": "2.4%"
-    },
-    {
-      "title": "CPI Flash Estimate y/y",
-      "country": "EUR",
-      "date": "2026-07-31T05:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "2.9%",
-      "previous": "2.8%"
-    },
-    {
-      "title": "Italian Prelim CPI m/m",
-      "country": "EUR",
-      "date": "2026-07-31T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.0%"
-    },
-    {
-      "title": "MPC Member Pill Speaks",
-      "country": "GBP",
-      "date": "2026-07-31T07:15:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "GDP m/m",
-      "country": "CAD",
-      "date": "2026-07-31T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "0.2%",
-      "previous": "0.5%"
-    },
-    {
-      "title": "Employment Cost Index q/q",
-      "country": "USD",
-      "date": "2026-07-31T08:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "0.8%",
-      "previous": "0.9%"
-    },
-    {
-      "title": "Chicago PMI",
-      "country": "USD",
-      "date": "2026-07-31T09:45:00-04:00",
-      "impact": "Low",
-      "forecast": "57.5",
-      "previous": "56.7"
-    },
-    {
-      "title": "Revised UoM Consumer Sentiment",
-      "country": "USD",
-      "date": "2026-07-31T10:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "54.2",
-      "previous": "54.4"
-    },
-    {
-      "title": "Revised UoM Inflation Expectations",
-      "country": "USD",
-      "date": "2026-07-31T10:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "4.2%"
-    }
-  ]
+  "withdrawals": []
 }
