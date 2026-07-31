@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T23:58:19.814833",
+  "updated_at": "2026-08-01T00:01:23.234201",
   "investors": [
     {
       "client_name": "MN Test Client 1",
@@ -7,8 +7,8 @@
       "equity": 65416.16,
       "lot_multiplier": 25.7,
       "floating_pl": -786.59,
-      "monthly_profit": 13162.899999999998,
-      "start_balance": 52253.26
+      "monthly_profit": 0.0,
+      "start_balance": 66202.75
     }
   ]
 }
