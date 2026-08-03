@@ -4,22 +4,22 @@
     "login": 257459025
   },
   "metrics": {
-    "growth_pct": "-26.80%",
-    "net_profit": "-13398.20",
+    "growth_pct": "-26.71%",
+    "net_profit": "-13356.50",
     "max_drawdown": "-17777.70 (-34.19%)",
-    "current_equity": "36601.80",
-    "current_balance": "36601.80",
+    "current_equity": "36643.50",
+    "current_balance": "36643.50",
     "highest_balance": "52002.00",
     "total_deposit": "50000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.78",
-    "expected_payoff": "-27.46",
-    "sharpe_ratio": "-3.20",
-    "win_rate": "72.1%",
-    "avg_win": "133.86",
+    "expected_payoff": "-27.31",
+    "sharpe_ratio": "-3.19",
+    "win_rate": "72.2%",
+    "avg_win": "133.59",
     "avg_loss": "444.97",
     "avg_duration": "1h 30m",
-    "total_trades": 488,
+    "total_trades": 489,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 488,
+      "count": 489,
       "percentage": 100.0
     }
   ],
@@ -919,7 +919,7 @@
     },
     {
       "date": "07-29 13:58",
-      "equity": 40590.4
+      "equity": 40336.0
     },
     {
       "date": "07-29 15:50",
@@ -999,7 +999,7 @@
     },
     {
       "date": "08-03 00:22",
-      "equity": 35770.4
+      "equity": 36152.6
     },
     {
       "date": "08-03 05:05",
@@ -1014,8 +1014,8 @@
       "equity": 36576.8
     },
     {
-      "date": "08-03 12:20",
-      "equity": 36601.8
+      "date": "08-03 12:39",
+      "equity": 36643.5
     }
   ],
   "hourly_distribution": [
@@ -1081,7 +1081,7 @@
     },
     {
       "hour": "12",
-      "win": 24,
+      "win": 25,
       "loss": 6
     },
     {
@@ -1374,11 +1374,11 @@
       "gross_loss": 52.1
     },
     "2026-08-03": {
-      "profit": 963.7,
-      "pct": 1.93,
-      "trades": 11,
-      "wins": 9,
-      "gross_win": 1006.9,
+      "profit": 1005.4,
+      "pct": 2.01,
+      "trades": 12,
+      "wins": 10,
+      "gross_win": 1048.6,
       "gross_loss": 43.2
     }
   },
