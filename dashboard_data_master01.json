@@ -1349,14 +1349,6 @@
       "previous": "0.5%"
     },
     {
-      "title": "New Home Prices m/m",
-      "country": "CNY",
-      "date": "2026-08-16T21:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-0.15%"
-    },
-    {
       "title": "Revised Industrial Production m/m",
       "country": "JPY",
       "date": "2026-08-17T00:30:00-04:00",
@@ -1403,6 +1395,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "title": "New Home Prices m/m",
+      "country": "CNY",
+      "date": "2026-08-17T03:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.15%"
     },
     {
       "title": "Retail Sales y/y",
