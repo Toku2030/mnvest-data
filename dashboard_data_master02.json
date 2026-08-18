@@ -5,21 +5,21 @@
   },
   "metrics": {
     "growth_pct": "-23.39%",
-    "net_profit": "-7017.50",
-    "max_drawdown": "-10045.30 (-31.96%)",
-    "current_equity": "22982.50",
-    "current_balance": "22982.50",
+    "net_profit": "-7015.60",
+    "max_drawdown": "-10105.00 (-32.15%)",
+    "current_equity": "22984.40",
+    "current_balance": "22984.40",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.51",
-    "expected_payoff": "-9.91",
-    "sharpe_ratio": "-5.73",
-    "win_rate": "66.9%",
-    "avg_win": "15.46",
+    "expected_payoff": "-9.90",
+    "sharpe_ratio": "-5.72",
+    "win_rate": "67.0%",
+    "avg_win": "15.43",
     "avg_loss": "61.83",
     "avg_duration": "1h 30m",
-    "total_trades": 708,
+    "total_trades": 709,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 708,
+      "count": 709,
       "percentage": 100.0
     }
   ],
@@ -579,11 +579,11 @@
     },
     {
       "date": "07-24 20:50",
-      "equity": 21893.0
+      "equity": 21812.8
     },
     {
       "date": "07-24 20:50",
-      "equity": 21637.9
+      "equity": 21330.4
     },
     {
       "date": "07-27 00:20",
@@ -631,7 +631,7 @@
     },
     {
       "date": "08-16 23:23",
-      "equity": 21796.9
+      "equity": 21782.1
     },
     {
       "date": "08-17 00:38",
@@ -655,7 +655,7 @@
     },
     {
       "date": "08-17 04:25",
-      "equity": 21983.0
+      "equity": 22002.7
     },
     {
       "date": "08-17 04:44",
@@ -667,7 +667,7 @@
     },
     {
       "date": "08-17 06:11",
-      "equity": 22030.7
+      "equity": 22043.4
     },
     {
       "date": "08-17 06:30",
@@ -711,7 +711,7 @@
     },
     {
       "date": "08-17 14:46",
-      "equity": 22185.9
+      "equity": 22260.3
     },
     {
       "date": "08-17 15:54",
@@ -735,7 +735,7 @@
     },
     {
       "date": "08-17 19:16",
-      "equity": 22066.7
+      "equity": 22590.4
     },
     {
       "date": "08-17 22:27",
@@ -751,7 +751,7 @@
     },
     {
       "date": "08-18 01:08",
-      "equity": 22515.2
+      "equity": 22500.0
     },
     {
       "date": "08-18 02:31",
@@ -843,11 +843,11 @@
     },
     {
       "date": "08-18 15:05",
-      "equity": 22919.5
+      "equity": 23017.9
     },
     {
-      "date": "08-18 15:35",
-      "equity": 22982.5
+      "date": "08-18 15:46",
+      "equity": 22984.4
     }
   ],
   "hourly_distribution": [
@@ -928,7 +928,7 @@
     },
     {
       "hour": "15",
-      "win": 24,
+      "win": 25,
       "loss": 14
     },
     {
@@ -1062,11 +1062,11 @@
       "gross_loss": 410.3
     },
     "2026-08-18": {
-      "profit": 501.4,
-      "pct": 1.67,
-      "trades": 89,
-      "wins": 61,
-      "gross_win": 619.1,
+      "profit": 503.3,
+      "pct": 1.68,
+      "trades": 90,
+      "wins": 62,
+      "gross_win": 621.0,
       "gross_loss": 117.7
     }
   },
@@ -1371,7 +1371,7 @@
     {
       "title": "GDT Price Index",
       "country": "NZD",
-      "date": "2026-08-18T10:51:00-04:00",
+      "date": "2026-08-18T11:31:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "0.1%"
