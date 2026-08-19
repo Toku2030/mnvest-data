@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-22.18%",
-    "net_profit": "-6654.00",
+    "growth_pct": "-22.16%",
+    "net_profit": "-6647.20",
     "max_drawdown": "-10045.30 (-31.96%)",
-    "current_equity": "23346.00",
-    "current_balance": "23346.00",
+    "current_equity": "23352.80",
+    "current_balance": "23352.80",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.54",
-    "expected_payoff": "-8.59",
-    "sharpe_ratio": "-5.14",
+    "expected_payoff": "-8.55",
+    "sharpe_ratio": "-5.13",
     "win_rate": "67.7%",
-    "avg_win": "15.04",
-    "avg_loss": "58.66",
+    "avg_win": "15.02",
+    "avg_loss": "58.43",
     "avg_duration": "1h 30m",
-    "total_trades": 775,
+    "total_trades": 777,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 775,
+      "count": 777,
       "percentage": 100.0
     }
   ],
@@ -291,11 +291,11 @@
     },
     {
       "date": "07-21 22:24",
-      "equity": 28301.3
+      "equity": 28324.9
     },
     {
       "date": "07-22 00:04",
-      "equity": 28381.5
+      "equity": 28366.8
     },
     {
       "date": "07-22 00:20",
@@ -399,7 +399,7 @@
     },
     {
       "date": "07-23 00:51",
-      "equity": 25287.2
+      "equity": 25301.6
     },
     {
       "date": "07-23 01:13",
@@ -407,7 +407,7 @@
     },
     {
       "date": "07-23 01:30",
-      "equity": 25320.6
+      "equity": 25329.9
     },
     {
       "date": "07-23 02:30",
@@ -463,7 +463,7 @@
     },
     {
       "date": "07-23 15:41",
-      "equity": 21399.7
+      "equity": 21431.1
     },
     {
       "date": "07-23 16:38",
@@ -487,7 +487,7 @@
     },
     {
       "date": "07-24 00:23",
-      "equity": 21585.6
+      "equity": 21505.9
     },
     {
       "date": "07-24 01:43",
@@ -527,7 +527,7 @@
     },
     {
       "date": "07-24 08:41",
-      "equity": 21759.4
+      "equity": 21755.2
     },
     {
       "date": "07-24 09:30",
@@ -579,7 +579,7 @@
     },
     {
       "date": "07-24 20:50",
-      "equity": 21892.9
+      "equity": 21880.3
     },
     {
       "date": "07-24 20:50",
@@ -631,7 +631,7 @@
     },
     {
       "date": "08-16 23:23",
-      "equity": 21782.1
+      "equity": 21796.9
     },
     {
       "date": "08-17 00:38",
@@ -659,7 +659,7 @@
     },
     {
       "date": "08-17 04:44",
-      "equity": 22012.1
+      "equity": 22007.7
     },
     {
       "date": "08-17 05:22",
@@ -803,7 +803,7 @@
     },
     {
       "date": "08-18 10:26",
-      "equity": 22790.2
+      "equity": 22810.8
     },
     {
       "date": "08-18 11:05",
@@ -827,7 +827,7 @@
     },
     {
       "date": "08-18 13:31",
-      "equity": 22934.2
+      "equity": 22876.1
     },
     {
       "date": "08-18 14:00",
@@ -871,7 +871,7 @@
     },
     {
       "date": "08-18 22:05",
-      "equity": 23199.2
+      "equity": 22933.1
     },
     {
       "date": "08-18 23:11",
@@ -903,7 +903,7 @@
     },
     {
       "date": "08-19 06:17",
-      "equity": 23275.0
+      "equity": 23268.1
     },
     {
       "date": "08-19 06:38",
@@ -922,8 +922,12 @@
       "equity": 23339.5
     },
     {
-      "date": "08-19 09:18",
-      "equity": 23346.0
+      "date": "08-19 09:42",
+      "equity": 23354.2
+    },
+    {
+      "date": "08-19 09:42",
+      "equity": 23352.8
     }
   ],
   "hourly_distribution": [
@@ -974,8 +978,8 @@
     },
     {
       "hour": "09",
-      "win": 24,
-      "loss": 13
+      "win": 25,
+      "loss": 14
     },
     {
       "hour": "10",
@@ -1146,12 +1150,12 @@
       "gross_loss": 284.6
     },
     "2026-08-19": {
-      "profit": 186.4,
-      "pct": 0.62,
-      "trades": 41,
-      "wins": 33,
-      "gross_win": 223.1,
-      "gross_loss": 36.7
+      "profit": 193.2,
+      "pct": 0.64,
+      "trades": 43,
+      "wins": 34,
+      "gross_win": 231.3,
+      "gross_loss": 38.1
     }
   },
   "withdrawals": [],
@@ -1591,7 +1595,7 @@
     {
       "title": "German 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-08-19T05:42:00-04:00",
+      "date": "2026-08-19T05:34:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.13|1.1"
