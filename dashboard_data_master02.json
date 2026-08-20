@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-33.73%",
-    "net_profit": "-10119.20",
-    "max_drawdown": "-11577.70 (-36.83%)",
-    "current_equity": "19880.80",
-    "current_balance": "19880.80",
+    "growth_pct": "-35.26%",
+    "net_profit": "-10576.50",
+    "max_drawdown": "-12011.90 (-38.21%)",
+    "current_equity": "19423.50",
+    "current_balance": "19423.50",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.44",
-    "expected_payoff": "-12.59",
-    "sharpe_ratio": "-7.18",
+    "profit_factor": "0.43",
+    "expected_payoff": "-13.14",
+    "sharpe_ratio": "-7.23",
     "win_rate": "67.0%",
     "avg_win": "14.82",
-    "avg_loss": "68.85",
+    "avg_loss": "70.32",
     "avg_duration": "1h 30m",
-    "total_trades": 804,
+    "total_trades": 805,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 804,
+      "count": 805,
       "percentage": 100.0
     }
   ],
@@ -767,7 +767,7 @@
     },
     {
       "date": "08-18 22:05",
-      "equity": 23190.4
+      "equity": 22898.4
     },
     {
       "date": "08-18 23:24",
@@ -803,7 +803,7 @@
     },
     {
       "date": "08-19 07:44",
-      "equity": 23336.0
+      "equity": 23296.9
     },
     {
       "date": "08-19 08:35",
@@ -842,8 +842,8 @@
       "equity": 19877.9
     },
     {
-      "date": "08-20 02:19",
-      "equity": 19880.8
+      "date": "08-20 02:24",
+      "equity": 19423.5
     }
   ],
   "hourly_distribution": [
@@ -860,7 +860,7 @@
     {
       "hour": "02",
       "win": 17,
-      "loss": 6
+      "loss": 7
     },
     {
       "hour": "03",
@@ -1074,12 +1074,12 @@
       "gross_loss": 3596.1
     },
     "2026-08-20": {
-      "profit": 0.0,
-      "pct": 0.0,
-      "trades": 0,
+      "profit": -457.3,
+      "pct": -1.52,
+      "trades": 1,
       "wins": 0,
       "gross_win": 0.0,
-      "gross_loss": 0.0
+      "gross_loss": 457.3
     }
   },
   "withdrawals": [],
