@@ -1585,7 +1585,7 @@
       "country": "USD",
       "date": "2026-09-02T08:15:00-04:00",
       "impact": "Medium",
-      "forecast": "48K",
+      "forecast": "47K",
       "previous": "44K"
     },
     {
@@ -1625,7 +1625,7 @@
       "country": "USD",
       "date": "2026-09-02T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.0M",
+      "forecast": "-0.4M",
       "previous": "0.1M"
     },
     {
@@ -1873,7 +1873,7 @@
       "country": "USD",
       "date": "2026-09-03T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "30B",
       "previous": "15B"
     },
     {
