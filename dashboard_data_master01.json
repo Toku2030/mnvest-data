@@ -1629,6 +1629,14 @@
       "previous": "6.3%"
     },
     {
+      "title": "German Buba President Nagel Speaks",
+      "country": "EUR",
+      "date": "2026-09-01T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "FOMC Member Barr Speaks",
       "country": "USD",
       "date": "2026-09-01T09:05:00-04:00",
@@ -1739,14 +1747,6 @@
       "impact": "Low",
       "forecast": "-13.5%",
       "previous": "-13.8%"
-    },
-    {
-      "title": "German Buba President Nagel Speaks",
-      "country": "EUR",
-      "date": "2026-09-01T20:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "GDP q/q",
