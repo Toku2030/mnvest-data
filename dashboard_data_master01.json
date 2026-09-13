@@ -1349,14 +1349,6 @@
       "previous": "0.1%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-09-14T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-6.2%"
-    },
-    {
       "title": "PPI m/m",
       "country": "CHF",
       "date": "2026-09-14T02:30:00-04:00",
@@ -1523,6 +1515,14 @@
       "impact": "Low",
       "forecast": "4.9%",
       "previous": "4.9%"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-09-15T02:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-6.2%"
     },
     {
       "title": "French Final CPI m/m",
