@@ -5,21 +5,21 @@
   },
   "metrics": {
     "growth_pct": "-33.39%",
-    "net_profit": "-10018.30",
+    "net_profit": "-10017.30",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "19981.70",
-    "current_balance": "19981.70",
+    "current_equity": "19982.70",
+    "current_balance": "19982.70",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.47",
-    "expected_payoff": "-11.12",
+    "expected_payoff": "-11.11",
     "sharpe_ratio": "-6.24",
     "win_rate": "66.4%",
-    "avg_win": "14.73",
+    "avg_win": "14.71",
     "avg_loss": "62.76",
     "avg_duration": "1h 30m",
-    "total_trades": 901,
+    "total_trades": 902,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 901,
+      "count": 902,
       "percentage": 100.0
     }
   ],
@@ -838,8 +838,8 @@
       "equity": 20010.7
     },
     {
-      "date": "09-16 18:09",
-      "equity": 19981.7
+      "date": "09-16 18:43",
+      "equity": 19982.7
     }
   ],
   "hourly_distribution": [
@@ -935,7 +935,7 @@
     },
     {
       "hour": "18",
-      "win": 15,
+      "win": 16,
       "loss": 9
     },
     {
@@ -1086,11 +1086,11 @@
       "gross_loss": 4.9
     },
     "2026-09-16": {
-      "profit": 449.6,
+      "profit": 450.6,
       "pct": 1.5,
-      "trades": 81,
-      "wins": 48,
-      "gross_win": 709.2,
+      "trades": 82,
+      "wins": 49,
+      "gross_win": 710.2,
       "gross_loss": 259.6
     }
   },
@@ -1633,14 +1633,6 @@
       "previous": "0.8%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-09-17T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-6.2%"
-    },
-    {
       "title": "SECO Economic Forecasts",
       "country": "CHF",
       "date": "2026-09-17T03:00:00-04:00",
@@ -1855,6 +1847,14 @@
       "impact": "Medium",
       "forecast": "-0.2%",
       "previous": "-0.5%"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-09-18T02:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-6.2%"
     },
     {
       "title": "Current Account",
