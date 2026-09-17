@@ -459,7 +459,7 @@
     },
     {
       "date": "07-24 20:50",
-      "equity": 21776.4
+      "equity": 21753.0
     },
     {
       "date": "07-26 23:34",
@@ -499,7 +499,7 @@
     },
     {
       "date": "08-16 23:23",
-      "equity": 21875.3
+      "equity": 21802.1
     },
     {
       "date": "08-17 00:57",
@@ -683,7 +683,7 @@
     },
     {
       "date": "08-18 22:05",
-      "equity": 23020.7
+      "equity": 23002.6
     },
     {
       "date": "08-18 22:21",
@@ -691,7 +691,7 @@
     },
     {
       "date": "08-19 00:00",
-      "equity": 23153.6
+      "equity": 23157.8
     },
     {
       "date": "08-19 01:20",
@@ -791,7 +791,7 @@
     },
     {
       "date": "09-16 07:55",
-      "equity": 19620.2
+      "equity": 19702.0
     },
     {
       "date": "09-16 09:23",
@@ -823,7 +823,7 @@
     },
     {
       "date": "09-16 15:36",
-      "equity": 19875.8
+      "equity": 19910.2
     },
     {
       "date": "09-16 17:13",
@@ -886,7 +886,7 @@
       "equity": 20180.6
     },
     {
-      "date": "09-17 09:20",
+      "date": "09-17 09:39",
       "equity": 20177.1
     }
   ],
@@ -1697,6 +1697,14 @@
       "previous": ""
     },
     {
+      "title": "Spanish 10-y Bond Auction",
+      "country": "EUR",
+      "date": "2026-09-17T04:37:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.74|2.3"
+    },
+    {
       "title": "Final Core CPI y/y",
       "country": "EUR",
       "date": "2026-09-17T05:00:00-04:00",
@@ -1711,14 +1719,6 @@
       "impact": "Low",
       "forecast": "3.3%",
       "previous": "3.3%"
-    },
-    {
-      "title": "Spanish 10-y Bond Auction",
-      "country": "EUR",
-      "date": "2026-09-17T05:03:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.74|2.3"
     },
     {
       "title": "Monetary Policy Summary",
