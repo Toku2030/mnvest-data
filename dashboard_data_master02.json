@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-31.46%",
-    "net_profit": "-9436.70",
+    "growth_pct": "-31.37%",
+    "net_profit": "-9411.60",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "20563.30",
-    "current_balance": "20563.30",
+    "current_equity": "20588.40",
+    "current_balance": "20588.40",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.50",
-    "expected_payoff": "-9.13",
-    "sharpe_ratio": "-5.43",
-    "win_rate": "68.6%",
-    "avg_win": "13.42",
-    "avg_loss": "59.04",
+    "expected_payoff": "-9.07",
+    "sharpe_ratio": "-5.41",
+    "win_rate": "68.4%",
+    "avg_win": "13.45",
+    "avg_loss": "58.53",
     "avg_duration": "1h 30m",
-    "total_trades": 1034,
+    "total_trades": 1038,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 1034,
+      "count": 1038,
       "percentage": 100.0
     }
   ],
@@ -167,7 +167,7 @@
     },
     {
       "date": "07-21 09:23",
-      "equity": 27926.1
+      "equity": 28056.6
     },
     {
       "date": "07-21 09:30",
@@ -327,7 +327,7 @@
     },
     {
       "date": "07-23 12:24",
-      "equity": 23433.3
+      "equity": 23591.0
     },
     {
       "date": "07-23 14:25",
@@ -351,7 +351,7 @@
     },
     {
       "date": "07-24 00:23",
-      "equity": 21508.1
+      "equity": 21509.1
     },
     {
       "date": "07-24 01:58",
@@ -359,7 +359,7 @@
     },
     {
       "date": "07-24 03:15",
-      "equity": 21721.2
+      "equity": 21551.4
     },
     {
       "date": "07-24 03:59",
@@ -579,7 +579,7 @@
     },
     {
       "date": "08-18 12:09",
-      "equity": 22839.6
+      "equity": 22823.3
     },
     {
       "date": "08-18 12:30",
@@ -611,7 +611,7 @@
     },
     {
       "date": "08-18 19:16",
-      "equity": 23015.2
+      "equity": 23022.0
     },
     {
       "date": "08-18 19:48",
@@ -619,7 +619,7 @@
     },
     {
       "date": "08-18 22:05",
-      "equity": 23299.6
+      "equity": 22959.1
     },
     {
       "date": "08-18 23:11",
@@ -671,7 +671,7 @@
     },
     {
       "date": "08-19 12:55",
-      "equity": 20238.0
+      "equity": 21581.0
     },
     {
       "date": "08-19 13:44",
@@ -683,7 +683,7 @@
     },
     {
       "date": "09-15 19:07",
-      "equity": 19448.3
+      "equity": 19427.5
     },
     {
       "date": "09-15 20:36",
@@ -695,7 +695,7 @@
     },
     {
       "date": "09-16 00:20",
-      "equity": 19527.9
+      "equity": 19569.1
     },
     {
       "date": "09-16 00:51",
@@ -715,7 +715,7 @@
     },
     {
       "date": "09-16 07:55",
-      "equity": 19623.5
+      "equity": 19705.3
     },
     {
       "date": "09-16 09:23",
@@ -727,7 +727,7 @@
     },
     {
       "date": "09-16 12:01",
-      "equity": 19681.9
+      "equity": 19696.3
     },
     {
       "date": "09-16 12:17",
@@ -799,7 +799,7 @@
     },
     {
       "date": "09-17 09:13",
-      "equity": 20178.1
+      "equity": 20184.7
     },
     {
       "date": "09-17 10:08",
@@ -851,7 +851,7 @@
     },
     {
       "date": "09-18 00:48",
-      "equity": 20436.3
+      "equity": 20445.4
     },
     {
       "date": "09-18 01:29",
@@ -866,8 +866,8 @@
       "equity": 20560.3
     },
     {
-      "date": "09-18 03:20",
-      "equity": 20563.3
+      "date": "09-18 03:33",
+      "equity": 20588.4
     }
   ],
   "hourly_distribution": [
@@ -888,8 +888,8 @@
     },
     {
       "hour": "03",
-      "win": 24,
-      "loss": 17
+      "win": 25,
+      "loss": 20
     },
     {
       "hour": "04",
@@ -1130,12 +1130,12 @@
       "gross_loss": 36.1
     },
     "2026-09-18": {
-      "profit": 161.6,
-      "pct": 0.54,
-      "trades": 22,
-      "wins": 18,
-      "gross_win": 203.9,
-      "gross_loss": 42.3
+      "profit": 186.7,
+      "pct": 0.62,
+      "trades": 26,
+      "wins": 19,
+      "gross_win": 240.7,
+      "gross_loss": 54.0
     }
   },
   "withdrawals": [],
@@ -1855,7 +1855,7 @@
     {
       "title": "BOJ Policy Rate",
       "country": "JPY",
-      "date": "2026-09-17T23:00:00-04:00",
+      "date": "2026-09-17T22:54:00-04:00",
       "impact": "High",
       "forecast": "<1.25%",
       "previous": "<1.00%"
@@ -1863,7 +1863,7 @@
     {
       "title": "Monetary Policy Statement",
       "country": "JPY",
-      "date": "2026-09-17T23:00:00-04:00",
+      "date": "2026-09-17T22:54:00-04:00",
       "impact": "High",
       "forecast": "",
       "previous": ""
