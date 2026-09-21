@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-28.74%",
-    "net_profit": "-8621.70",
+    "growth_pct": "-28.73%",
+    "net_profit": "-8619.70",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "21378.30",
-    "current_balance": "21378.30",
+    "current_equity": "21380.30",
+    "current_balance": "21380.30",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.56",
-    "expected_payoff": "-7.62",
-    "sharpe_ratio": "-4.61",
+    "expected_payoff": "-7.61",
+    "sharpe_ratio": "-4.60",
     "win_rate": "67.7%",
-    "avg_win": "14.60",
+    "avg_win": "14.59",
     "avg_loss": "54.87",
     "avg_duration": "1h 30m",
-    "total_trades": 1132,
+    "total_trades": 1133,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 1132,
+      "count": 1133,
       "percentage": 100.0
     }
   ],
@@ -803,7 +803,7 @@
     },
     {
       "date": "09-18 08:31",
-      "equity": 20550.2
+      "equity": 20835.0
     },
     {
       "date": "09-18 10:58",
@@ -823,7 +823,7 @@
     },
     {
       "date": "09-18 14:49",
-      "equity": 21034.9
+      "equity": 20835.0
     },
     {
       "date": "09-18 15:27",
@@ -835,7 +835,7 @@
     },
     {
       "date": "09-18 19:27",
-      "equity": 21290.5
+      "equity": 21201.8
     },
     {
       "date": "09-18 20:10",
@@ -851,7 +851,7 @@
     },
     {
       "date": "09-21 00:28",
-      "equity": 21105.3
+      "equity": 21378.4
     },
     {
       "date": "09-21 01:06",
@@ -860,6 +860,10 @@
     {
       "date": "09-21 01:57",
       "equity": 21378.3
+    },
+    {
+      "date": "09-21 02:02",
+      "equity": 21380.3
     }
   ],
   "hourly_distribution": [
@@ -875,7 +879,7 @@
     },
     {
       "hour": "02",
-      "win": 28,
+      "win": 29,
       "loss": 11
     },
     {
@@ -1138,11 +1142,11 @@
       "gross_loss": 0.0
     },
     "2026-09-21": {
-      "profit": 216.0,
-      "pct": 0.72,
-      "trades": 19,
-      "wins": 10,
-      "gross_win": 319.3,
+      "profit": 218.0,
+      "pct": 0.73,
+      "trades": 20,
+      "wins": 11,
+      "gross_win": 321.3,
       "gross_loss": 103.3
     }
   },
