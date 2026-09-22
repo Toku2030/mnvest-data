@@ -5,10 +5,10 @@
   },
   "metrics": {
     "growth_pct": "-27.07%",
-    "net_profit": "-8122.40",
+    "net_profit": "-8120.10",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "21877.60",
-    "current_balance": "21877.60",
+    "current_equity": "21879.90",
+    "current_balance": "21879.90",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
@@ -16,10 +16,10 @@
     "expected_payoff": "-6.61",
     "sharpe_ratio": "-4.19",
     "win_rate": "68.4%",
-    "avg_win": "14.04",
+    "avg_win": "14.02",
     "avg_loss": "51.99",
     "avg_duration": "1h 30m",
-    "total_trades": 1228,
+    "total_trades": 1229,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 1228,
+      "count": 1229,
       "percentage": 100.0
     }
   ],
@@ -739,7 +739,7 @@
     },
     {
       "date": "09-18 08:31",
-      "equity": 20635.1
+      "equity": 20559.3
     },
     {
       "date": "09-18 10:59",
@@ -854,8 +854,8 @@
       "equity": 21864.7
     },
     {
-      "date": "09-22 02:23",
-      "equity": 21877.6
+      "date": "09-22 02:28",
+      "equity": 21879.9
     }
   ],
   "hourly_distribution": [
@@ -871,7 +871,7 @@
     },
     {
       "hour": "02",
-      "win": 34,
+      "win": 35,
       "loss": 11
     },
     {
@@ -1142,11 +1142,11 @@
       "gross_loss": 201.2
     },
     "2026-09-22": {
-      "profit": 55.3,
-      "pct": 0.18,
-      "trades": 13,
-      "wins": 10,
-      "gross_win": 62.3,
+      "profit": 57.6,
+      "pct": 0.19,
+      "trades": 14,
+      "wins": 11,
+      "gross_win": 64.6,
       "gross_loss": 7.0
     }
   },
