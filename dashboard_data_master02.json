@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-23.54%",
-    "net_profit": "-7061.20",
+    "growth_pct": "-23.52%",
+    "net_profit": "-7055.20",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "22938.80",
-    "current_balance": "22938.80",
+    "current_equity": "22944.80",
+    "current_balance": "22944.80",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.65",
-    "expected_payoff": "-5.27",
-    "sharpe_ratio": "-3.50",
+    "expected_payoff": "-5.26",
+    "sharpe_ratio": "-3.49",
     "win_rate": "68.5%",
-    "avg_win": "14.43",
+    "avg_win": "14.40",
     "avg_loss": "48.77",
     "avg_duration": "1h 30m",
-    "total_trades": 1339,
+    "total_trades": 1341,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 1339,
+      "count": 1341,
       "percentage": 100.0
     }
   ],
@@ -475,7 +475,7 @@
     },
     {
       "date": "08-18 17:31",
-      "equity": 23005.6
+      "equity": 23000.1
     },
     {
       "date": "08-18 19:31",
@@ -659,7 +659,7 @@
     },
     {
       "date": "09-18 00:01",
-      "equity": 20407.2
+      "equity": 20402.3
     },
     {
       "date": "09-18 00:48",
@@ -703,7 +703,7 @@
     },
     {
       "date": "09-18 14:49",
-      "equity": 21006.5
+      "equity": 20971.0
     },
     {
       "date": "09-18 16:10",
@@ -743,7 +743,7 @@
     },
     {
       "date": "09-21 05:45",
-      "equity": 21475.6
+      "equity": 21481.4
     },
     {
       "date": "09-21 06:41",
@@ -851,7 +851,7 @@
     },
     {
       "date": "09-23 06:49",
-      "equity": 22937.2
+      "equity": 22897.8
     },
     {
       "date": "09-23 08:34",
@@ -862,8 +862,8 @@
       "equity": 22934.8
     },
     {
-      "date": "09-23 10:36",
-      "equity": 22938.8
+      "date": "09-23 10:48",
+      "equity": 22944.8
     }
   ],
   "hourly_distribution": [
@@ -919,7 +919,7 @@
     },
     {
       "hour": "10",
-      "win": 25,
+      "win": 27,
       "loss": 6
     },
     {
@@ -1158,11 +1158,11 @@
       "gross_loss": 185.6
     },
     "2026-09-23": {
-      "profit": 654.1,
-      "pct": 2.18,
-      "trades": 43,
-      "wins": 27,
-      "gross_win": 853.7,
+      "profit": 660.1,
+      "pct": 2.2,
+      "trades": 45,
+      "wins": 29,
+      "gross_win": 859.7,
       "gross_loss": 199.6
     }
   },
