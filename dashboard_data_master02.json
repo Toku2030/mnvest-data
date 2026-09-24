@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-22.08%",
-    "net_profit": "-6625.00",
+    "growth_pct": "-22.06%",
+    "net_profit": "-6617.20",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "23375.00",
-    "current_balance": "23375.00",
+    "current_equity": "23382.80",
+    "current_balance": "23382.80",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
-    "profit_factor": "0.67",
-    "expected_payoff": "-4.69",
+    "profit_factor": "0.68",
+    "expected_payoff": "-4.68",
     "sharpe_ratio": "-3.17",
-    "win_rate": "68.6%",
-    "avg_win": "14.20",
+    "win_rate": "68.7%",
+    "avg_win": "14.18",
     "avg_loss": "46.86",
     "avg_duration": "1h 30m",
-    "total_trades": 1412,
+    "total_trades": 1414,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 1412,
+      "count": 1414,
       "percentage": 100.0
     }
   ],
@@ -439,7 +439,7 @@
     },
     {
       "date": "08-18 15:05",
-      "equity": 22916.3
+      "equity": 22922.4
     },
     {
       "date": "08-18 16:54",
@@ -619,7 +619,7 @@
     },
     {
       "date": "09-18 01:00",
-      "equity": 20466.3
+      "equity": 20460.6
     },
     {
       "date": "09-18 02:17",
@@ -639,7 +639,7 @@
     },
     {
       "date": "09-18 08:31",
-      "equity": 20775.7
+      "equity": 20783.8
     },
     {
       "date": "09-18 11:05",
@@ -655,7 +655,7 @@
     },
     {
       "date": "09-18 14:49",
-      "equity": 21038.5
+      "equity": 20805.5
     },
     {
       "date": "09-18 16:10",
@@ -663,7 +663,7 @@
     },
     {
       "date": "09-18 19:27",
-      "equity": 20736.0
+      "equity": 20742.8
     },
     {
       "date": "09-18 20:13",
@@ -679,7 +679,7 @@
     },
     {
       "date": "09-21 01:06",
-      "equity": 21337.8
+      "equity": 21352.1
     },
     {
       "date": "09-21 02:29",
@@ -767,7 +767,7 @@
     },
     {
       "date": "09-22 18:41",
-      "equity": 22177.0
+      "equity": 22185.8
     },
     {
       "date": "09-22 22:29",
@@ -787,11 +787,11 @@
     },
     {
       "date": "09-23 05:29",
-      "equity": 22325.1
+      "equity": 22328.0
     },
     {
       "date": "09-23 06:49",
-      "equity": 22461.9
+      "equity": 22447.2
     },
     {
       "date": "09-23 08:00",
@@ -846,8 +846,8 @@
       "equity": 23375.0
     },
     {
-      "date": "09-24 03:13",
-      "equity": 23375.0
+      "date": "09-24 03:36",
+      "equity": 23382.8
     }
   ],
   "hourly_distribution": [
@@ -868,7 +868,7 @@
     },
     {
       "hour": "03",
-      "win": 36,
+      "win": 38,
       "loss": 24
     },
     {
@@ -1150,11 +1150,11 @@
       "gross_loss": 290.5
     },
     "2026-09-24": {
-      "profit": 37.1,
-      "pct": 0.12,
-      "trades": 9,
-      "wins": 7,
-      "gross_win": 39.5,
+      "profit": 44.9,
+      "pct": 0.15,
+      "trades": 11,
+      "wins": 9,
+      "gross_win": 47.3,
       "gross_loss": 2.4
     }
   },
@@ -1505,14 +1505,6 @@
       "previous": "4.5%"
     },
     {
-      "title": "NAB Quarterly Business Confidence",
-      "country": "AUD",
-      "date": "2026-09-23T23:35:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-19"
-    },
-    {
       "title": "SNB Monetary Policy Assessment",
       "country": "CHF",
       "date": "2026-09-24T03:30:00-04:00",
@@ -1695,6 +1687,14 @@
       "impact": "Holiday",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "title": "NAB Quarterly Business Confidence",
+      "country": "AUD",
+      "date": "2026-09-24T21:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-19"
     },
     {
       "title": "BOJ Core CPI y/y",
