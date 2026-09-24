@@ -5,10 +5,10 @@
   },
   "metrics": {
     "growth_pct": "-22.20%",
-    "net_profit": "-6660.50",
+    "net_profit": "-6658.90",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "23339.50",
-    "current_balance": "23339.50",
+    "current_equity": "23341.10",
+    "current_balance": "23341.10",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
@@ -16,10 +16,10 @@
     "expected_payoff": "-4.74",
     "sharpe_ratio": "-3.19",
     "win_rate": "68.6%",
-    "avg_win": "14.25",
+    "avg_win": "14.23",
     "avg_loss": "46.96",
     "avg_duration": "1h 30m",
-    "total_trades": 1404,
+    "total_trades": 1405,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 1404,
+      "count": 1405,
       "percentage": 100.0
     }
   ],
@@ -819,7 +819,7 @@
     },
     {
       "date": "09-23 16:49",
-      "equity": 23151.1
+      "equity": 23169.3
     },
     {
       "date": "09-23 17:33",
@@ -831,21 +831,21 @@
     },
     {
       "date": "09-23 20:55",
-      "equity": 23246.8
+      "equity": 23253.4
     },
     {
       "date": "09-23 23:14",
       "equity": 23305.4
     },
     {
-      "date": "09-24 00:32",
-      "equity": 23339.5
+      "date": "09-24 00:54",
+      "equity": 23341.1
     }
   ],
   "hourly_distribution": [
     {
       "hour": "00",
-      "win": 64,
+      "win": 65,
       "loss": 25
     },
     {
@@ -1142,11 +1142,11 @@
       "gross_loss": 290.5
     },
     "2026-09-24": {
-      "profit": 1.6,
+      "profit": 3.2,
       "pct": 0.01,
-      "trades": 1,
-      "wins": 1,
-      "gross_win": 1.6,
+      "trades": 2,
+      "wins": 2,
+      "gross_win": 3.2,
       "gross_loss": 0.0
     }
   },
@@ -1481,14 +1481,6 @@
       "previous": "55.1"
     },
     {
-      "title": "NAB Quarterly Business Confidence",
-      "country": "AUD",
-      "date": "2026-09-23T20:35:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-19"
-    },
-    {
       "title": "Employment Change",
       "country": "AUD",
       "date": "2026-09-23T21:30:00-04:00",
@@ -1503,6 +1495,14 @@
       "impact": "High",
       "forecast": "4.5%",
       "previous": "4.5%"
+    },
+    {
+      "title": "NAB Quarterly Business Confidence",
+      "country": "AUD",
+      "date": "2026-09-23T22:35:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-19"
     },
     {
       "title": "SNB Monetary Policy Assessment",
