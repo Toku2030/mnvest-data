@@ -4,22 +4,22 @@
     "login": 160103224
   },
   "metrics": {
-    "growth_pct": "-29.49%",
-    "net_profit": "-8846.70",
+    "growth_pct": "-29.47%",
+    "net_profit": "-8841.20",
     "max_drawdown": "-12011.90 (-38.21%)",
-    "current_equity": "21153.30",
-    "current_balance": "21153.30",
+    "current_equity": "21158.80",
+    "current_balance": "21158.80",
     "highest_balance": "31435.40",
     "total_deposit": "30000.00",
     "total_withdrawal": "0.00",
     "profit_factor": "0.64",
-    "expected_payoff": "-5.64",
+    "expected_payoff": "-5.63",
     "sharpe_ratio": "-3.84",
     "win_rate": "68.2%",
-    "avg_win": "14.95",
-    "avg_loss": "50.59",
+    "avg_win": "14.94",
+    "avg_loss": "50.49",
     "avg_duration": "1h 30m",
-    "total_trades": 1569,
+    "total_trades": 1571,
     "best_streak_days": 0,
     "worst_streak_days": 0,
     "best_streak_trades": 0,
@@ -28,7 +28,7 @@
   "symbols": [
     {
       "name": "XAUUSDc",
-      "count": 1569,
+      "count": 1571,
       "percentage": 100.0
     }
   ],
@@ -171,7 +171,7 @@
     },
     {
       "date": "07-22 06:24",
-      "equity": 24771.4
+      "equity": 24772.0
     },
     {
       "date": "07-22 07:55",
@@ -191,7 +191,7 @@
     },
     {
       "date": "07-22 15:57",
-      "equity": 24926.0
+      "equity": 24985.1
     },
     {
       "date": "07-22 18:06",
@@ -235,7 +235,7 @@
     },
     {
       "date": "07-23 15:41",
-      "equity": 21437.7
+      "equity": 21395.6
     },
     {
       "date": "07-23 18:28",
@@ -251,7 +251,7 @@
     },
     {
       "date": "07-24 03:15",
-      "equity": 21721.2
+      "equity": 21551.4
     },
     {
       "date": "07-24 05:09",
@@ -323,7 +323,7 @@
     },
     {
       "date": "08-17 03:32",
-      "equity": 21971.9
+      "equity": 21959.0
     },
     {
       "date": "08-17 04:59",
@@ -435,7 +435,7 @@
     },
     {
       "date": "08-19 02:38",
-      "equity": 23257.2
+      "equity": 23247.1
     },
     {
       "date": "08-19 05:48",
@@ -467,7 +467,7 @@
     },
     {
       "date": "09-15 19:07",
-      "equity": 19426.1
+      "equity": 19427.5
     },
     {
       "date": "09-15 22:28",
@@ -479,11 +479,11 @@
     },
     {
       "date": "09-16 01:00",
-      "equity": 19568.9
+      "equity": 19608.2
     },
     {
       "date": "09-16 04:46",
-      "equity": 19614.5
+      "equity": 19618.9
     },
     {
       "date": "09-16 06:51",
@@ -579,7 +579,7 @@
     },
     {
       "date": "09-18 00:48",
-      "equity": 20419.2
+      "equity": 20436.3
     },
     {
       "date": "09-18 01:51",
@@ -647,7 +647,7 @@
     },
     {
       "date": "09-21 05:24",
-      "equity": 21419.1
+      "equity": 21476.9
     },
     {
       "date": "09-21 06:25",
@@ -719,7 +719,7 @@
     },
     {
       "date": "09-22 18:41",
-      "equity": 22164.4
+      "equity": 22281.9
     },
     {
       "date": "09-22 22:51",
@@ -835,7 +835,7 @@
     },
     {
       "date": "09-24 20:45",
-      "equity": 24086.1
+      "equity": 24078.9
     },
     {
       "date": "09-25 00:13",
@@ -851,7 +851,7 @@
     },
     {
       "date": "09-25 05:10",
-      "equity": 23462.4
+      "equity": 23671.2
     },
     {
       "date": "09-25 06:43",
@@ -867,15 +867,15 @@
     },
     {
       "date": "09-25 11:33",
-      "equity": 21137.4
+      "equity": 21121.3
     },
     {
       "date": "09-25 12:23",
       "equity": 21144.1
     },
     {
-      "date": "09-25 12:54",
-      "equity": 21153.3
+      "date": "09-25 13:05",
+      "equity": 21158.8
     }
   ],
   "hourly_distribution": [
@@ -946,8 +946,8 @@
     },
     {
       "hour": "13",
-      "win": 61,
-      "loss": 22
+      "win": 62,
+      "loss": 23
     },
     {
       "hour": "14",
@@ -1186,12 +1186,12 @@
       "gross_loss": 230.2
     },
     "2026-09-25": {
-      "profit": -2943.7,
-      "pct": -9.81,
-      "trades": 65,
-      "wins": 37,
-      "gross_win": 1284.2,
-      "gross_loss": 4227.9
+      "profit": -2938.2,
+      "pct": -9.79,
+      "trades": 67,
+      "wins": 38,
+      "gross_win": 1290.0,
+      "gross_loss": 4228.2
     }
   },
   "withdrawals": [],
